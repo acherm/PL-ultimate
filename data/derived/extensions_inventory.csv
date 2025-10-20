@@ -1,0 +1,1390 @@
+extension,count_total,count_pldb,count_linguist,count_wikipedia,count_esolang,sample_lang
+.inc,12,8,12,3,2,Assembely
+.m,7,5,7,3,1,Limbo
+.bas,6,4,6,1,1,B4X
+.cls,6,4,6,1,0,Apex
+.fcgi,6,4,6,3,2,Lua
+.mod,5,4,5,2,0,AMPL
+.ncl,5,3,5,0,1,Gerber Image
+.pro,5,4,5,1,0,IDL
+.sql,5,3,5,1,0,PLpgSQL
+.bf,4,4,4,0,3,Beef
+.fs,4,4,4,0,1,F#
+.gml,4,4,4,1,0,Game Maker Language
+.gs,4,4,4,1,0,Genie
+.l,4,4,4,2,0,Common Lisp
+.sch,4,3,4,0,0,Eagle
+.t,4,4,4,1,1,Perl
+.x,4,2,4,0,1,DirectX 3D File
+.yaml,4,0,4,0,0,MiniYAML
+.yml,4,0,4,0,0,MiniYAML
+.asc,3,2,3,0,0,AGS Script
+.bb,3,3,3,1,0,BitBake
+.bs,3,0,3,0,0,Bikeshed
+.cgi,3,1,3,1,2,Perl
+.cl,3,3,3,2,1,Common Lisp
+.d,3,2,3,0,1,D
+.e,3,2,3,0,1,E
+.f,3,3,3,1,1,Filebench WML
+.for,3,2,3,1,1,Formatted
+.fr,3,2,3,0,2,Forth
+.frm,3,2,3,0,0,INI
+.h,3,2,3,3,2,C
+.i,3,0,3,0,1,Assembely
+.json,3,0,3,0,0,JSON
+.mc,3,1,3,0,0,M4
+.ms,3,2,3,0,0,MAXScript
+.pl,3,3,3,2,1,Perl
+.pm,3,3,3,1,1,Perl
+.r,3,2,3,1,0,R
+.rs,3,3,3,0,0,RenderScript
+.s,3,0,3,0,1,Assembely
+.spec,3,1,3,0,1,Python
+.txt,3,0,3,0,1,Adblock Filter List
+.v,3,2,3,0,1,Rocq Prover
+.1,2,1,2,0,0,Roff
+.1in,2,1,2,0,0,Roff
+.1m,2,1,2,0,0,Roff
+.1x,2,1,2,0,0,Roff
+.2,2,1,2,0,0,Roff
+.3,2,1,2,0,0,Roff
+.3in,2,1,2,0,0,Roff
+.3m,2,1,2,0,0,Roff
+.3p,2,1,2,0,0,Roff
+.3pm,2,1,2,0,0,Roff
+.3qt,2,1,2,0,0,Roff
+.3x,2,1,2,0,0,Roff
+.4,2,1,2,0,0,Roff
+.5,2,1,2,0,0,Roff
+.6,2,1,2,0,0,Roff
+.7,2,1,2,0,0,Roff
+.8,2,1,2,0,0,Roff
+.9,2,1,2,0,0,Roff
+.al,2,2,2,1,1,AL
+.as,2,2,2,2,0,ActionScript
+.ash,2,1,2,0,0,AGS Script
+.asm,2,0,2,0,1,Assembely
+.asy,2,1,2,0,0,Asymptote
+.b,2,2,2,0,1,Brainfuck
+.brd,2,1,2,0,0,Eagle
+.bst,2,0,2,0,0,BibTeX Style
+.cairo,2,1,2,0,0,Cairo
+.cake,2,1,2,1,0,C#
+.cfg,2,1,2,0,0,HAProxy
+.ch,2,2,2,0,0,Charity
+.cp,2,1,2,2,1,C++
+.cs,2,1,2,1,0,C#
+.csl,2,1,2,0,0,Kusto
+.cue,2,0,2,0,0,CUE
+.ddl,2,1,2,1,0,PLSQL
+.dsc,2,0,2,0,0,Debian Package Control File
+.dsp,2,1,2,0,0,Faust
+.ecl,2,1,2,0,1,ECL
+.es,2,2,2,1,0,Erlang
+.ex,2,2,2,0,0,Elixir
+.frag,2,2,2,1,0,GLSL
+.ftl,2,1,2,0,0,Fluent
+.fx,2,2,2,0,1,FLUX
+.g,2,2,2,1,0,G-code
+.gd,2,2,2,0,1,GAP
+.gst,2,2,2,0,0,Gosu
+.gts,2,1,2,0,0,Gerber Image
+.hh,2,1,2,1,1,C++
+.html,2,1,2,0,0,Ecmarkup
+.ice,2,1,2,0,0,JSON
+.j,2,2,2,0,0,Jasmin
+.jq,2,2,2,0,1,jq
+.ks,2,0,2,0,0,KerboScript
+.lean,2,1,2,0,0,Lean
+.lisp,2,2,2,2,0,Common Lisp
+.lp,2,0,2,0,0,Answer Set Programming
+.ls,2,2,2,0,0,LiveScript
+.lsp,2,2,2,2,0,Common Lisp
+.m4,2,2,2,0,0,M4
+.man,2,1,2,0,0,Roff
+.mask,2,1,2,0,0,Mask
+.md,2,2,2,0,0,GCC Machine Description
+.mdoc,2,1,2,0,0,Roff
+.ml,2,2,2,2,0,OCaml
+.mm,2,1,2,0,0,Objective-C++
+.mo,2,1,2,1,0,Modelica
+.mojo,2,2,2,0,0,Mojo
+.moo,2,1,2,0,0,Mercury
+.mqh,2,0,2,0,0,MQL4
+.msg,2,0,2,0,0,OMNeT++ MSG
+.n,2,2,2,1,0,Nemerle
+.nas,2,1,2,0,2,Assembely
+.nb,2,0,2,1,1,Text
+.nl,2,2,2,1,0,NewLisp
+.nr,2,1,2,0,0,Noir
+.nu,2,2,2,0,1,Nu
+.odin,2,1,2,0,0,Object Data Instance Notation
+.p,2,1,2,0,0,Gnuplot
+.pbt,2,1,2,1,0,PowerBuilder
+.php,2,2,2,1,0,Hack
+.pkl,2,1,2,0,0,Pickle
+.plist,2,0,2,0,0,OpenStep Property List
+.plt,2,2,2,1,0,Gnuplot
+.pluginspec,2,2,2,0,0,Ruby
+.pod,2,1,2,0,0,Pod
+.pp,2,2,2,0,0,Pascal
+.prc,2,1,2,1,0,PLSQL
+.properties,2,2,2,0,0,INI
+.q,2,2,2,0,1,HiveQL
+.qs,2,2,2,2,0,Q#
+.re,2,1,2,1,1,C++
+.res,2,2,2,0,0,redscript
+.rno,2,2,2,0,0,Roff
+.rpy,2,0,2,0,1,Python
+.rsc,2,1,2,0,0,Rascal
+.sc,2,2,2,1,0,Scala
+.scd,2,2,2,1,0,Markdown
+.scm,2,1,2,0,0,Scheme
+.shader,2,2,2,0,0,GLSL
+.sls,2,2,2,0,0,SaltStack
+.sol,2,2,2,1,0,Gerber Image
+.srt,2,2,2,0,0,SRecode Template
+.st,2,1,2,1,0,Smalltalk
+.star,2,2,2,0,0,STAR
+.svx,2,0,2,0,0,mdsvex
+.sw,2,1,2,0,0,Sway
+.tact,2,0,2,0,0,JSON
+.tl,2,2,2,0,0,Teal
+.toc,2,2,2,1,0,TeX
+.trigger,2,1,2,0,0,Apex
+.ts,2,2,2,1,0,TypeScript
+.tsp,2,0,2,0,0,TSPLIB data
+.tst,2,2,2,1,0,GAP
+.tsx,2,1,2,0,0,TSX
+.typ,2,2,2,0,0,Typst
+.vba,2,2,2,0,0,VBA
+.vcf,2,0,2,0,0,TSV
+.vhost,2,1,2,0,0,ApacheConf
+.w,2,1,2,0,0,CWeb
+.workflow,2,2,2,0,0,HCL
+.yy,2,1,2,0,0,JSON
+.2da,1,0,1,0,0,2-Dimensional Array
+.4dform,1,0,1,0,0,JSON
+.4dm,1,0,1,0,0,4D
+.4dproject,1,0,1,0,0,JSON
+.4gl,1,0,1,0,0,Genero 4gl
+.4th,1,1,1,0,1,Forth
+.6pl,1,1,1,0,0,Raku
+.6pm,1,1,1,0,0,Raku
+.8xp,1,0,1,0,0,TI Program
+._coffee,1,1,1,1,0,CoffeeScript
+._js,1,1,1,1,0,JavaScript
+._ls,1,1,1,0,0,LiveScript
+.a51,1,0,1,0,1,Assembely
+.abap,1,1,1,1,0,ABAP
+.abnf,1,1,1,0,0,ABNF
+.action,1,0,1,0,0,ROS Interface
+.ada,1,1,1,0,0,Ada
+.adb,1,1,1,0,0,Ada
+.adml,1,1,1,0,0,XML
+.admx,1,1,1,0,0,XML
+.ado,1,1,1,1,0,Stata
+.adoc,1,1,1,0,0,AsciiDoc
+.adp,1,1,1,1,0,Tcl
+.ads,1,1,1,0,0,Ada
+.afm,1,1,1,0,0,Adobe Font Metrics
+.agc,1,1,1,0,1,Apollo Guidance Computer
+.agda,1,1,1,0,0,Agda
+.ahk,1,1,1,1,0,AutoHotkey
+.ahkl,1,1,1,1,0,AutoHotkey
+.aidl,1,0,1,0,0,AIDL
+.aj,1,1,1,0,0,AspectJ
+.ak,1,0,1,0,0,Aiken
+.als,1,0,1,0,0,Alloy
+.ampl,1,1,1,1,0,AMPL
+.angelscript,1,1,1,1,0,AngelScript
+.anim,1,1,1,0,0,Unity3D Asset
+.ant,1,1,1,0,0,XML
+.apacheconf,1,1,1,0,0,ApacheConf
+.apex,1,1,1,0,0,Apex
+.apib,1,1,1,0,0,API Blueprint
+.apl,1,1,1,0,1,APL
+.app,1,1,1,0,0,Erlang
+.applescript,1,1,1,1,0,AppleScript
+.arc,1,1,1,0,0,Arc
+.arpa,1,0,1,0,0,DNS Zone
+.arr,1,1,1,0,0,Pyret
+.asax,1,1,1,0,0,ASP.NET
+.asciidoc,1,1,1,0,0,AsciiDoc
+.ascx,1,1,1,0,0,ASP.NET
+.asd,1,1,1,1,0,Common Lisp
+.asddls,1,0,1,0,0,ABAP CDS
+.ashx,1,1,1,0,0,ASP.NET
+.asl,1,0,1,0,0,ASL
+.asmx,1,1,1,0,0,ASP.NET
+.asn,1,1,1,0,0,ASN.1
+.asn1,1,1,1,0,0,ASN.1
+.asp,1,0,1,0,0,Classic ASP
+.aspx,1,1,1,0,0,ASP.NET
+.asset,1,1,1,0,0,Unity3D Asset
+.astro,1,1,1,0,0,Astro
+.au3,1,1,1,1,0,AutoIt
+.aug,1,1,1,0,0,Augeas
+.auk,1,1,1,1,0,Awk
+.aux,1,1,1,1,0,TeX
+.avdl,1,0,1,0,0,Avro IDL
+.avsc,1,0,1,0,0,JSON
+.aw,1,1,1,1,0,PHP
+.awk,1,1,1,1,0,Awk
+.axaml,1,1,1,0,0,XML
+.axd,1,1,1,0,0,ASP.NET
+.axi,1,1,1,0,0,NetLinx
+.axml,1,1,1,0,0,XML
+.axs,1,1,1,0,0,NetLinx
+.bal,1,1,1,0,0,Ballerina
+.bash,1,0,1,0,0,Shell
+.bat,1,0,1,1,0,Batch file
+.bats,1,0,1,0,0,Shell
+.bbappend,1,1,1,0,0,BitBake
+.bbclass,1,1,1,0,0,BitBake
+.bbx,1,1,1,1,0,TeX
+.bdf,1,1,1,0,0,Glyph Bitmap Distribution Format
+.bdy,1,0,1,0,0,PLSQL
+.be,1,1,1,0,0,Berry
+.befunge,1,1,1,0,1,Befunge
+.bi,1,1,1,0,0,FreeBASIC
+.bib,1,1,1,0,0,BibTeX
+.bibtex,1,1,1,0,0,BibTeX
+.bicep,1,0,1,0,0,Bicep
+.bicepparam,1,0,1,0,0,Bicep
+.bison,1,1,1,0,0,Bison
+.blade,1,1,1,0,0,Blade
+.bmx,1,1,1,0,0,BlitzMax
+.bones,1,1,1,1,0,JavaScript
+.boo,1,1,1,0,0,Boo
+.boot,1,1,1,1,0,Clojure
+.bpl,1,1,1,0,0,Boogie
+.bqn,1,1,1,0,1,BQN
+.bro,1,1,1,0,0,Zeek
+.brs,1,0,1,0,0,Brightscript
+.bru,1,0,1,0,0,Bru
+.bsl,1,1,1,0,0,1C Enterprise
+.bsv,1,1,1,0,0,Bluespec
+.builder,1,1,1,0,0,Ruby
+.builds,1,1,1,0,0,XML
+.bzl,1,1,1,0,0,Starlark
+.c,1,1,1,1,1,C
+.c++,1,0,1,1,1,C++
+.c++-objdump,1,0,1,0,0,Cpp-ObjDump
+.c++objdump,1,0,1,0,0,Cpp-ObjDump
+.c-objdump,1,0,1,0,0,C-ObjDump
+.c3,1,1,1,0,0,C3
+.cabal,1,0,1,0,0,Cabal Config
+.caddyfile,1,0,1,0,0,Caddyfile
+.capnp,1,1,1,0,0,Cap'n Proto
+.carbon,1,1,1,0,0,Carbon
+.cats,1,1,1,1,1,C
+.cbl,1,1,1,1,1,COBOL
+.cbx,1,1,1,1,0,TeX
+.cc,1,0,1,1,1,C++
+.ccp,1,1,1,1,1,COBOL
+.ccproj,1,1,1,0,0,XML
+.ccxml,1,1,1,0,0,XML
+.cdc,1,0,1,0,0,Cadence
+.cdf,1,0,1,1,0,Wolfram Language
+.cds,1,0,1,0,0,CAP CDS
+.ceylon,1,1,1,0,0,Ceylon
+.cfc,1,0,1,0,0,ColdFusion CFC
+.cfm,1,1,1,1,0,ColdFusion
+.cfml,1,1,1,1,0,ColdFusion
+.cginc,1,1,1,0,0,HLSL
+.chem,1,1,1,0,0,Pic
+.chpl,1,1,1,0,0,Chapel
+.chs,1,0,1,0,0,C2hs Haskell
+.cil,1,1,1,0,0,CIL
+.circom,1,0,1,0,0,Circom
+.cirru,1,1,1,0,0,Cirru
+.cj,1,0,1,0,0,Cangjie
+.cjs,1,1,1,1,0,JavaScript
+.cjsx,1,1,1,1,0,CoffeeScript
+.ck,1,1,1,1,0,ChucK
+.cl2,1,1,1,1,0,Clojure
+.clar,1,1,1,0,0,Clarity
+.click,1,1,1,0,0,Click
+.clixml,1,1,1,0,0,XML
+.clj,1,1,1,1,0,Clojure
+.cljc,1,1,1,1,0,Clojure
+.cljs,1,1,1,1,0,Clojure
+.cljscm,1,1,1,1,0,Clojure
+.cljx,1,1,1,1,0,Clojure
+.clp,1,1,1,0,0,CLIPS
+.clue,1,0,1,0,0,Clue
+.clw,1,1,1,0,0,Clarion
+.cmake,1,1,1,0,0,CMake
+.cmd,1,0,1,1,0,Batch file
+.cmp,1,1,1,0,0,Gerber Image
+.cnc,1,1,1,1,0,G-code
+.cnf,1,1,1,0,0,INI
+.cob,1,1,1,1,1,COBOL
+.cobol,1,1,1,1,1,COBOL
+.cocci,1,1,1,0,0,SmPL
+.code-snippets,1,0,1,0,0,JSON with Comments
+.code-workspace,1,0,1,0,0,JSON with Comments
+.coffee,1,1,1,1,0,CoffeeScript
+.com,1,1,1,1,0,DIGITAL Command Language
+.command,1,0,1,0,0,Shell
+.conll,1,1,1,0,0,CoNLL-U
+.conllu,1,1,1,0,0,CoNLL-U
+.containerfile,1,1,1,0,0,Dockerfile
+.cook,1,0,1,0,0,Cooklang
+.coq,1,0,1,0,0,Rocq Prover
+.cpp,1,0,1,1,1,C++
+.cpp-objdump,1,0,1,0,0,Cpp-ObjDump
+.cppm,1,0,1,1,1,C++
+.cppobjdump,1,0,1,0,0,Cpp-ObjDump
+.cproject,1,1,1,0,0,XML
+.cps,1,1,1,1,0,Component Pascal
+.cpy,1,1,1,1,1,COBOL
+.cql,1,1,1,1,0,SQL
+.cr,1,1,1,0,0,Crystal
+.crc32,1,0,1,0,0,Checksums
+.creole,1,1,1,0,0,Creole
+.csc,1,0,1,0,0,GSC
+.cscfg,1,1,1,0,0,XML
+.csd,1,0,1,0,0,Csound Document
+.csdef,1,1,1,0,0,XML
+.csh,1,1,1,0,0,Tcsh
+.cshtml,1,0,1,0,0,HTML+Razor
+.cson,1,1,1,0,0,CSON
+.csproj,1,1,1,0,0,XML
+.css,1,1,1,0,0,CSS
+.csv,1,0,1,0,0,CSV
+.csx,1,0,1,0,0,C#
+.ct,1,1,1,0,0,XML
+.ctl,1,0,1,0,0,Visual Basic 6.0
+.ctp,1,1,1,1,0,PHP
+.cts,1,1,1,1,0,TypeScript
+.cu,1,1,1,0,0,Cuda
+.cuh,1,1,1,0,0,Cuda
+.curry,1,1,1,0,0,Curry
+.cw,1,1,1,0,1,Redcode
+.cwl,1,1,1,0,0,Common Workflow Language
+.cxx,1,0,1,1,1,C++
+.cxx-objdump,1,0,1,0,0,Cpp-ObjDump
+.cy,1,1,1,0,0,Cycript
+.cylc,1,0,1,0,0,Cylc
+.cyp,1,1,1,0,0,Cypher
+.cypher,1,1,1,0,0,Cypher
+.d-objdump,1,0,1,0,0,D-ObjDump
+.d2,1,1,1,0,0,D2
+.dae,1,1,1,0,0,COLLADA
+.darcspatch,1,0,1,0,0,Darcs Patch
+.dart,1,1,1,0,0,Dart
+.das,1,0,1,0,0,Daslang
+.dats,1,1,1,0,0,ATS
+.db2,1,1,1,0,0,SQLPL
+.dcl,1,1,1,0,0,Clean
+.decls,1,1,1,0,0,BlitzBasic
+.depproj,1,1,1,0,0,XML
+.desktop,1,1,1,0,0,desktop
+.dfm,1,1,1,0,0,Pascal
+.dfy,1,1,1,0,0,Dafny
+.dhall,1,1,1,0,0,Dhall
+.di,1,1,1,0,1,D
+.diff,1,1,1,0,0,Diff
+.dircolors,1,0,1,0,0,dircolors
+.dita,1,1,1,0,0,XML
+.ditamap,1,1,1,0,0,XML
+.ditaval,1,1,1,0,0,XML
+.djs,1,1,1,0,1,Dogescript
+.dlm,1,1,1,0,0,IDL
+.dm,1,1,1,0,0,DM
+.do,1,1,1,1,0,Stata
+.dockerfile,1,1,1,0,0,Dockerfile
+.dof,1,1,1,0,0,INI
+.doh,1,1,1,1,0,Stata
+.dot,1,0,1,0,0,Graphviz (DOT)
+.dotsettings,1,1,1,0,0,XML
+.dpatch,1,0,1,0,0,Darcs Patch
+.dpr,1,1,1,0,0,Pascal
+.druby,1,1,1,0,0,Mirah
+.dsl,1,0,1,0,0,ASL
+.dsr,1,0,1,0,0,Visual Basic 6.0
+.dtx,1,1,1,1,0,TeX
+.duby,1,1,1,0,0,Mirah
+.dwl,1,1,1,0,0,DataWeave
+.dyalog,1,1,1,0,1,APL
+.dyl,1,1,1,0,0,Dylan
+.dylan,1,1,1,0,0,Dylan
+.dzn,1,0,1,0,0,MiniZinc Data
+.eb,1,1,1,0,0,Easybuild
+.ebnf,1,1,1,0,0,EBNF
+.ebuild,1,1,1,0,0,Gentoo Ebuild
+.ec,1,1,1,0,0,eC
+.eclass,1,0,1,0,0,Gentoo Eclass
+.eclxml,1,1,1,0,1,ECL
+.ecr,1,0,1,0,0,HTML+ECR
+.ect,1,1,1,0,0,EJS
+.edc,1,1,1,0,0,Edje Data Collection
+.edge,1,0,1,0,1,Edge
+.edgeql,1,1,1,0,0,EdgeQL
+.editorconfig,1,0,1,0,0,EditorConfig
+.edn,1,1,1,0,0,edn
+.eh,1,1,1,0,0,eC
+.ejs,1,1,1,0,0,EJS
+.el,1,1,1,1,0,Emacs Lisp
+.eliom,1,1,1,1,0,OCaml
+.eliomi,1,1,1,1,0,OCaml
+.elm,1,0,1,0,0,Elm
+.elv,1,1,1,0,0,Elvish
+.em,1,1,1,0,0,EmberScript
+.emacs,1,1,1,1,0,Emacs Lisp
+.emberscript,1,1,1,0,0,EmberScript
+.eml,1,0,1,0,0,E-mail
+.env,1,0,1,0,0,Dotenv
+.epj,1,0,1,0,0,Ecere Projects
+.eps,1,1,1,1,0,PostScript
+.epsi,1,1,1,1,0,PostScript
+.eq,1,0,1,0,0,EQ
+.erb,1,0,1,0,0,HTML+ERB
+.erl,1,1,1,0,0,Erlang
+.es6,1,1,1,1,0,JavaScript
+.escript,1,1,1,0,0,Erlang
+.esdl,1,1,1,0,0,EdgeQL
+.ets,1,0,1,1,0,ArkTS
+.exs,1,1,1,0,0,Elixir
+.eye,1,1,1,0,0,Ruby
+.f03,1,0,1,0,0,Fortran Free Form
+.f08,1,0,1,0,0,Fortran Free Form
+.f77,1,1,1,1,0,Fortran
+.f90,1,0,1,0,0,Fortran Free Form
+.f95,1,0,1,0,0,Fortran Free Form
+.factor,1,1,1,0,1,Factor
+.fan,1,1,1,0,0,Fantom
+.fancypack,1,1,1,0,0,Fancy
+.fea,1,1,1,0,0,OpenType Feature File
+.feature,1,1,1,0,0,Gherkin
+.filters,1,1,1,0,0,XML
+.fir,1,1,1,0,0,FIRRTL
+.fish,1,1,1,0,1,fish
+.flex,1,1,1,0,0,JFlex
+.flf,1,1,1,0,0,FIGlet Font
+.flix,1,1,1,0,0,Flix
+.flux,1,1,1,0,1,FLUX
+.fnc,1,0,1,0,0,PLSQL
+.fnl,1,1,1,0,0,Fennel
+.forth,1,1,1,0,1,Forth
+.fp,1,1,1,0,0,GLSL
+.fpp,1,1,1,1,0,Fortran
+.frg,1,1,1,0,0,GLSL
+.frt,1,1,1,0,1,Forth
+.fsh,1,1,1,0,0,GLSL
+.fshader,1,1,1,0,0,GLSL
+.fsi,1,1,1,0,0,F#
+.fsproj,1,1,1,0,0,XML
+.fst,1,1,1,0,1,F*
+.fsti,1,1,1,0,1,F*
+.fsx,1,1,1,0,0,F#
+.fth,1,1,1,0,1,Forth
+.ftlh,1,1,1,0,0,FreeMarker
+.fun,1,1,1,1,0,Standard ML
+.fut,1,1,1,0,0,Futhark
+.fxh,1,1,1,0,0,HLSL
+.fxml,1,1,1,0,0,XML
+.fy,1,1,1,0,0,Fancy
+.g4,1,1,1,0,0,ANTLR
+.gaml,1,1,1,0,0,GAML
+.gap,1,1,1,0,0,GAP
+.gawk,1,1,1,1,0,Awk
+.gbl,1,1,1,0,0,Gerber Image
+.gbo,1,1,1,0,0,Gerber Image
+.gbp,1,1,1,0,0,Gerber Image
+.gbr,1,1,1,0,0,Gerber Image
+.gbs,1,1,1,0,0,Gerber Image
+.gco,1,1,1,1,0,G-code
+.gcode,1,1,1,1,0,G-code
+.gdb,1,1,1,0,0,GDB
+.gdbinit,1,1,1,0,0,GDB
+.gdnlib,1,0,1,0,0,Godot Resource
+.gdns,1,0,1,0,0,Godot Resource
+.gdshader,1,0,1,0,0,GDShader
+.gdshaderinc,1,0,1,0,0,GDShader
+.ged,1,0,1,0,0,GEDCOM
+.gemspec,1,1,1,0,0,Ruby
+.geo,1,1,1,0,0,GLSL
+.geojson,1,0,1,0,0,JSON
+.geom,1,1,1,0,0,GLSL
+.gf,1,1,1,0,0,Grammatical Framework
+.gi,1,1,1,0,0,GAP
+.gitconfig,1,1,1,0,0,Git Config
+.gitignore,1,0,1,0,0,Ignore List
+.gjs,1,0,1,0,0,Glimmer JS
+.gko,1,1,1,0,0,Gerber Image
+.glade,1,1,1,0,0,XML
+.gleam,1,1,1,0,0,Gleam
+.glf,1,1,1,0,0,Glyph
+.glsl,1,1,1,0,0,GLSL
+.glslf,1,1,1,0,0,GLSL
+.glslv,1,1,1,0,0,GLSL
+.gltf,1,0,1,0,0,JSON
+.glyphs,1,0,1,0,0,OpenStep Property List
+.gmi,1,1,1,0,0,Gemini
+.gms,1,1,1,0,0,GAMS
+.gmx,1,1,1,0,0,XML
+.gn,1,0,1,0,0,GN
+.gni,1,0,1,0,0,GN
+.gnu,1,1,1,0,0,Gnuplot
+.gnuplot,1,1,1,0,0,Gnuplot
+.go,1,1,1,0,0,Go
+.god,1,1,1,0,0,Ruby
+.golo,1,1,1,0,0,Golo
+.gp,1,1,1,0,0,Gnuplot
+.gpb,1,1,1,0,0,Gerber Image
+.gpt,1,1,1,0,0,Gerber Image
+.gpx,1,1,1,0,0,XML
+.gql,1,0,1,0,0,GraphQL
+.grace,1,1,1,0,0,Grace
+.gradle,1,1,1,0,0,Gradle
+.graphql,1,0,1,0,0,GraphQL
+.graphqls,1,0,1,0,0,GraphQL
+.groovy,1,1,1,0,0,Groovy
+.grt,1,1,1,0,0,Groovy
+.grxml,1,1,1,0,0,XML
+.gsc,1,0,1,0,0,GSC
+.gsh,1,0,1,0,0,GSC
+.gshader,1,1,1,0,0,GLSL
+.gsp,1,1,1,0,0,Groovy Server Pages
+.gsx,1,1,1,0,0,Gosu
+.gtl,1,1,1,0,0,Gerber Image
+.gto,1,1,1,0,0,Gerber Image
+.gtp,1,1,1,0,0,Gerber Image
+.gtpl,1,1,1,0,0,Groovy
+.gv,1,0,1,0,0,Graphviz (DOT)
+.gvy,1,1,1,0,0,Groovy
+.gyp,1,0,1,0,1,Python
+.gypi,1,0,1,0,1,Python
+.h++,1,0,1,1,1,C++
+.ha,1,1,1,0,0,Hare
+.hack,1,1,1,0,0,Hack
+.haml,1,1,1,0,0,Haml
+.handlebars,1,1,1,0,0,Handlebars
+.har,1,0,1,0,0,JSON
+.hats,1,1,1,0,0,ATS
+.hb,1,1,1,0,0,Harbour
+.hbs,1,1,1,0,0,Handlebars
+.hc,1,1,1,0,0,HolyC
+.hcl,1,1,1,0,0,HCL
+.heex,1,0,1,0,0,HTML+EEX
+.hhi,1,1,1,0,0,Hack
+.hic,1,1,1,1,0,Clojure
+.hip,1,0,1,0,0,HIP
+.hlean,1,1,1,0,0,Lean
+.hlsl,1,1,1,0,0,HLSL
+.hlsli,1,1,1,0,0,HLSL
+.hocon,1,1,1,0,0,HOCON
+.hoon,1,1,1,0,1,hoon
+.hpp,1,0,1,1,1,C++
+.hqf,1,0,1,0,0,SQF
+.hql,1,1,1,0,0,HiveQL
+.hrl,1,1,1,0,0,Erlang
+.hs,1,1,1,1,1,Haskell
+.hs-boot,1,1,1,1,1,Haskell
+.hsc,1,1,1,1,1,Haskell
+.hta,1,1,1,0,0,HTML
+.htm,1,1,1,0,0,HTML
+.http,1,1,1,0,0,HTTP
+.hurl,1,1,1,0,0,Hurl
+.hx,1,1,1,1,0,Haxe
+.hxml,1,1,1,0,0,HXML
+.hxsl,1,1,1,1,0,Haxe
+.hxx,1,0,1,1,1,C++
+.hy,1,1,1,0,0,Hy
+.hzp,1,1,1,0,0,XML
+.i3,1,0,1,1,0,Modula-3
+.i7x,1,0,1,0,0,Inform 7
+.ical,1,0,1,0,0,iCalendar
+.iced,1,1,1,1,0,CoffeeScript
+.icl,1,1,1,0,0,Clean
+.ics,1,0,1,0,0,iCalendar
+.idc,1,1,1,1,1,C
+.idr,1,1,1,0,0,Idris
+.ig,1,0,1,1,0,Modula-3
+.ihlp,1,1,1,1,0,Stata
+.ijm,1,0,1,0,0,ImageJ Macro
+.ijs,1,1,1,0,1,J
+.ik,1,1,1,0,0,Ioke
+.ily,1,1,1,1,0,LilyPond
+.imba,1,1,1,0,0,Imba
+.iml,1,1,1,0,0,XML
+.ini,1,1,1,0,0,INI
+.ink,1,1,1,0,0,Ink
+.inl,1,0,1,1,1,C++
+.ino,1,0,1,1,1,C++
+.ins,1,1,1,1,0,TeX
+.intr,1,1,1,0,0,Dylan
+.io,1,1,1,0,0,Io
+.iol,1,1,1,0,0,Jolie
+.ipf,1,1,1,0,0,IGOR Pro
+.ipp,1,0,1,1,1,C++
+.ipynb,1,1,1,0,0,Jupyter Notebook
+.irclog,1,1,1,0,0,IRC log
+.isl,1,1,1,0,0,Inno Setup
+.ispc,1,0,1,0,0,ISPC
+.iss,1,1,1,0,0,Inno Setup
+.iuml,1,1,1,0,0,PlantUML
+.ivy,1,1,1,0,0,XML
+.ixx,1,0,1,1,1,C++
+.j2,1,1,1,0,0,Jinja
+.jade,1,1,1,0,0,Pug
+.jai,1,1,1,0,0,Jai
+.jake,1,1,1,1,0,JavaScript
+.janet,1,1,1,0,0,Janet
+.jav,1,1,1,0,1,Java
+.java,1,1,1,0,1,Java
+.javascript,1,1,1,1,0,JavaScript
+.jbuilder,1,1,1,0,0,Ruby
+.jcl,1,1,1,0,0,JCL
+.jelly,1,1,1,0,0,XML
+.jflex,1,1,1,0,0,JFlex
+.jinja,1,1,1,0,0,Jinja
+.jinja2,1,1,1,0,0,Jinja
+.jison,1,1,1,0,0,Jison
+.jisonlex,1,1,1,0,0,Jison Lex
+.jl,1,1,1,0,0,Julia
+.js,1,1,1,1,0,JavaScript
+.jsb,1,1,1,1,0,JavaScript
+.jscad,1,1,1,1,0,JavaScript
+.jsfl,1,1,1,1,0,JavaScript
+.jsh,1,1,1,0,1,Java
+.jslib,1,1,1,1,0,JavaScript
+.jsm,1,1,1,1,0,JavaScript
+.json-tmlanguage,1,0,1,0,0,JSON
+.json5,1,1,1,0,0,JSON5
+.jsonc,1,0,1,0,0,JSON with Comments
+.jsonl,1,0,1,0,0,JSON
+.jsonld,1,0,1,0,0,JSONLD
+.jsonnet,1,0,1,0,0,Jsonnet
+.jsp,1,1,1,0,0,Java Server Pages
+.jspre,1,1,1,1,0,JavaScript
+.jsproj,1,1,1,0,0,XML
+.jss,1,1,1,1,0,JavaScript
+.jst,1,1,1,0,0,EJS
+.jsx,1,1,1,1,0,JavaScript
+.jte,1,0,1,0,0,Java Template Engine
+.just,1,1,1,0,1,Just
+.kak,1,0,1,0,0,KakouneScript
+.kdl,1,1,1,0,0,KDL
+.kicad_mod,1,0,1,0,0,KiCad Layout
+.kicad_pcb,1,0,1,0,0,KiCad Layout
+.kicad_sch,1,0,1,0,0,KiCad Schematic
+.kicad_sym,1,0,1,0,0,KiCad Schematic
+.kicad_wks,1,0,1,0,0,KiCad Layout
+.kid,1,1,1,0,0,Genshi
+.kit,1,1,1,0,0,Kit
+.kk,1,1,1,0,0,Koka
+.kml,1,1,1,0,0,XML
+.kojo,1,1,1,0,0,Scala
+.kql,1,0,1,0,0,Kusto
+.krl,1,1,1,0,0,KRL
+.ksh,1,0,1,0,0,Shell
+.ksy,1,0,1,0,0,Kaitai Struct
+.kt,1,1,1,0,0,Kotlin
+.ktm,1,1,1,0,0,Kotlin
+.kts,1,1,1,0,0,Kotlin
+.kv,1,0,1,0,0,kvlang
+.lagda,1,1,1,0,0,Literate Agda
+.lark,1,0,1,0,0,Lark
+.las,1,1,1,0,0,Lasso
+.lasso,1,1,1,0,0,Lasso
+.lasso8,1,1,1,0,0,Lasso
+.lasso9,1,1,1,0,0,Lasso
+.latte,1,1,1,0,0,Latte
+.launch,1,1,1,0,0,XML
+.lbx,1,1,1,1,0,TeX
+.ld,1,1,1,0,0,Linker Script
+.lds,1,1,1,0,0,Linker Script
+.leex,1,0,1,0,0,HTML+EEX
+.lektorproject,1,1,1,0,0,INI
+.leo,1,0,1,0,0,Leo
+.less,1,1,1,0,0,Less
+.lex,1,1,1,0,0,Lex
+.lfe,1,1,1,0,0,LFE
+.lgt,1,1,1,1,0,Logtalk
+.lhs,1,1,1,0,0,Literate Haskell
+.libsonnet,1,0,1,0,0,Jsonnet
+.lid,1,1,1,0,0,Dylan
+.lidr,1,1,1,0,0,Idris
+.ligo,1,0,1,0,0,LigoLANG
+.linq,1,0,1,0,0,C#
+.liquid,1,1,1,0,1,Liquid
+.litcoffee,1,1,1,0,0,Literate CoffeeScript
+.livecodescript,1,0,1,0,0,LiveCode Script
+.livemd,1,1,1,0,0,Markdown
+.lkml,1,1,1,0,0,LookML
+.ll,1,0,1,0,0,LLVM
+.lmi,1,0,1,0,1,Python
+.logtalk,1,1,1,1,0,Logtalk
+.lol,1,1,1,0,1,LOLCODE
+.lookml,1,1,1,0,0,LookML
+.lpr,1,1,1,0,0,Pascal
+.lsl,1,1,1,0,0,LSL
+.lslp,1,1,1,0,0,LSL
+.ltx,1,1,1,1,0,TeX
+.lua,1,1,1,1,0,Lua
+.luau,1,1,1,0,0,Luau
+.lvclass,1,1,1,1,0,LabVIEW
+.lvlib,1,1,1,1,0,LabVIEW
+.lvproj,1,1,1,1,0,LabVIEW
+.ly,1,1,1,1,0,LilyPond
+.m2,1,0,1,0,0,Macaulay2
+.m3,1,0,1,1,0,Modula-3
+.m3u,1,0,1,0,0,M3U
+.m3u8,1,0,1,0,0,M3U
+.ma,1,0,1,1,0,Wolfram Language
+.mak,1,0,1,0,0,Makefile
+.make,1,0,1,0,0,Makefile
+.makefile,1,0,1,0,0,Makefile
+.mako,1,1,1,0,0,Mako
+.mao,1,1,1,0,0,Mako
+.markdown,1,1,1,0,0,Markdown
+.marko,1,1,1,0,0,Marko
+.mat,1,1,1,0,0,Unity3D Asset
+.mata,1,1,1,1,0,Stata
+.matah,1,1,1,1,0,Stata
+.mathematica,1,0,1,1,0,Wolfram Language
+.matlab,1,1,1,1,0,MATLAB
+.mawk,1,1,1,1,0,Awk
+.maxhelp,1,1,1,0,0,Max
+.maxpat,1,1,1,0,0,Max
+.maxproj,1,1,1,0,0,Max
+.mbox,1,0,1,0,0,E-mail
+.mbt,1,0,1,0,0,MoonBit
+.mcfunction,1,0,1,0,0,mcfunction
+.mcmeta,1,0,1,0,0,JSON
+.mcr,1,1,1,0,0,MAXScript
+.md2,1,0,1,0,0,Checksums
+.md4,1,0,1,0,0,Checksums
+.md5,1,0,1,0,0,Checksums
+.mdown,1,1,1,0,0,Markdown
+.mdpolicy,1,1,1,0,0,XML
+.mdwn,1,1,1,0,0,Markdown
+.mdx,1,1,1,0,1,MDX
+.me,1,1,1,0,0,Roff
+.mediawiki,1,0,1,0,0,Wikitext
+.mermaid,1,1,1,0,0,Mermaid
+.meta,1,1,1,0,0,Unity3D Asset
+.metal,1,1,1,0,0,Metal
+.mg,1,0,1,1,0,Modula-3
+.minid,1,1,1,0,0,MiniD
+.mint,1,1,1,0,1,Mint
+.mir,1,0,1,0,0,YAML
+.mirah,1,1,1,0,0,Mirah
+.mjml,1,1,1,0,0,XML
+.mjs,1,1,1,1,0,JavaScript
+.mk,1,0,1,0,0,Makefile
+.mkd,1,1,1,0,0,Markdown
+.mkdn,1,1,1,0,0,Markdown
+.mkdown,1,1,1,0,0,Markdown
+.mkfile,1,0,1,0,0,Makefile
+.mkii,1,1,1,1,0,TeX
+.mkiv,1,1,1,1,0,TeX
+.mkvi,1,1,1,1,0,TeX
+.ml4,1,1,1,1,0,OCaml
+.mli,1,1,1,1,0,OCaml
+.mligo,1,0,1,0,0,CameLIGO
+.mlir,1,1,1,0,0,MLIR
+.mll,1,1,1,1,0,OCaml
+.mly,1,1,1,1,0,OCaml
+.mmd,1,1,1,0,0,Mermaid
+.mmk,1,1,1,0,0,Module Management System
+.mms,1,1,1,0,0,Module Management System
+.monkey,1,1,1,0,1,Monkey
+.monkey2,1,1,1,0,1,Monkey
+.moon,1,0,1,0,1,MoonScript
+.move,1,1,1,0,0,Move
+.mpl,1,0,1,0,0,JetBrains MPS
+.mps,1,0,1,0,0,JetBrains MPS
+.mq4,1,0,1,0,0,MQL4
+.mq5,1,0,1,0,0,MQL5
+.mrc,1,0,1,0,0,mIRC Script
+.msd,1,0,1,0,0,JetBrains MPS
+.mspec,1,1,1,0,0,Ruby
+.mss,1,1,1,0,0,CartoCSS
+.mt,1,0,1,1,0,Wolfram Language
+.mtl,1,1,1,0,0,Wavefront Material
+.mtml,1,1,1,0,0,MTML
+.mts,1,1,1,1,0,TypeScript
+.mu,1,1,1,1,0,mupad
+.mud,1,1,1,0,0,ZIL
+.muf,1,1,1,0,0,MUF
+.mumps,1,0,1,0,1,M
+.muse,1,0,1,0,0,Muse
+.mustache,1,1,1,0,0,Mustache
+.mxml,1,1,1,0,0,XML
+.mxt,1,1,1,0,0,Max
+.mysql,1,1,1,1,0,SQL
+.myt,1,1,1,0,0,Myghty
+.mzn,1,1,1,0,0,MiniZinc
+.nanorc,1,0,1,0,0,nanorc
+.nasl,1,0,1,0,0,NASL
+.nasm,1,0,1,0,1,Assembely
+.natvis,1,1,1,0,0,XML
+.nawk,1,1,1,1,0,Awk
+.nbp,1,0,1,1,0,Wolfram Language
+.nc,1,1,1,0,0,nesC
+.ndproj,1,1,1,0,0,XML
+.ne,1,1,1,0,0,Nearley
+.nearley,1,1,1,0,0,Nearley
+.ned,1,0,1,0,0,OMNeT++ NED
+.neon,1,0,1,0,0,NEON
+.nf,1,1,1,0,0,Nextflow
+.nginx,1,0,1,0,0,Nginx
+.nginxconf,1,0,1,0,0,Nginx
+.ni,1,0,1,0,0,Inform 7
+.nim,1,1,1,0,0,Nim
+.nimble,1,1,1,0,0,Nim
+.nimrod,1,1,1,0,0,Nim
+.nims,1,1,1,0,0,Nim
+.ninja,1,1,1,0,0,Ninja
+.nit,1,1,1,0,0,Nit
+.nix,1,1,1,0,1,Nix
+.njk,1,0,1,0,0,Nunjucks
+.njs,1,1,1,1,0,JavaScript
+.nlogo,1,1,1,1,0,NetLogo
+.no,1,0,1,0,1,Text
+.nomad,1,1,1,0,0,HCL
+.nproj,1,1,1,0,0,XML
+.nqp,1,1,1,0,0,Raku
+.nse,1,1,1,1,0,Lua
+.nsh,1,1,1,0,0,NSIS
+.nsi,1,1,1,0,0,NSIS
+.nss,1,1,1,1,0,NWScript
+.numpy,1,1,1,0,0,NumPy
+.numpyw,1,1,1,0,0,NumPy
+.numsc,1,1,1,0,0,NumPy
+.nuspec,1,1,1,0,0,XML
+.nut,1,1,1,0,0,Squirrel
+.ny,1,1,1,1,0,Common Lisp
+.ob2,1,1,1,0,0,Oberon
+.obj,1,1,1,0,0,Wavefront Object
+.objdump,1,1,1,0,0,ObjDump
+.odd,1,1,1,0,0,XML
+.ol,1,1,1,0,0,Jolie
+.omgrofl,1,1,1,0,1,Omgrofl
+.ooc,1,1,1,0,0,ooc
+.opa,1,1,1,0,0,Opa
+.opal,1,1,1,0,1,Opal
+.opencl,1,1,1,1,0,OpenCL
+.orc,1,1,1,1,0,Csound
+.org,1,0,1,0,0,Org
+.os,1,1,1,0,0,1C Enterprise
+.osm,1,1,1,0,0,XML
+.outjob,1,0,1,0,0,Altium Designer
+.overpassql,1,0,1,0,0,OverpassQL
+.owl,1,0,1,0,0,Web Ontology Language
+.ox,1,1,1,0,0,Ox
+.oxh,1,1,1,0,0,Ox
+.oxo,1,1,1,0,0,Ox
+.oxygene,1,1,1,0,0,Oxygene
+.oz,1,1,1,0,1,Oz
+.p4,1,1,1,0,0,P4
+.p6,1,1,1,0,0,Raku
+.p6l,1,1,1,0,0,Raku
+.p6m,1,1,1,0,0,Raku
+.p8,1,1,1,1,0,Lua
+.pac,1,1,1,1,0,JavaScript
+.pact,1,1,1,0,0,Pact
+.pan,1,1,1,0,0,Pan
+.parrot,1,0,1,0,1,Parrot
+.pas,1,1,1,0,0,Pascal
+.pascal,1,1,1,0,0,Pascal
+.pasm,1,1,1,0,0,Parrot Assembly
+.pat,1,1,1,0,0,Max
+.patch,1,1,1,0,0,Diff
+.pb,1,1,1,0,0,PureBasic
+.pbi,1,1,1,0,0,PureBasic
+.pbtxt,1,0,1,0,0,Protocol Buffer Text Format
+.pcbdoc,1,0,1,0,0,Altium Designer
+.pck,1,0,1,0,0,PLSQL
+.pcss,1,1,1,0,0,PostCSS
+.pd,1,1,1,1,0,Pure Data
+.pd_lua,1,1,1,1,0,Lua
+.pddl,1,0,1,0,0,PDDL
+.pde,1,1,1,0,0,Processing
+.peggy,1,0,1,0,0,PEG.js
+.pegjs,1,0,1,0,0,PEG.js
+.pep,1,1,1,0,0,Pep8
+.per,1,0,1,0,0,Genero per
+.perl,1,1,1,1,1,Perl
+.pfa,1,1,1,1,0,PostScript
+.pgsql,1,1,1,0,0,PLpgSQL
+.ph,1,1,1,1,1,Perl
+.php3,1,1,1,1,0,PHP
+.php4,1,1,1,1,0,PHP
+.php5,1,1,1,1,0,PHP
+.phps,1,1,1,1,0,PHP
+.phpt,1,1,1,1,0,PHP
+.phtml,1,0,1,0,0,HTML+PHP
+.pic,1,1,1,0,0,Pic
+.pig,1,0,1,0,0,PigLatin
+.pike,1,1,1,0,0,Pike
+.pir,1,1,1,0,0,Parrot Internal Representation
+.pkb,1,0,1,0,0,PLSQL
+.pkgproj,1,1,1,0,0,XML
+.pks,1,0,1,0,0,PLSQL
+.pl6,1,1,1,0,0,Raku
+.plantuml,1,1,1,0,0,PlantUML
+.plb,1,0,1,0,0,PLSQL
+.plot,1,1,1,0,0,Gnuplot
+.pls,1,0,1,0,0,PLSQL
+.plsql,1,0,1,0,0,PLSQL
+.plx,1,1,1,1,1,Perl
+.pm6,1,1,1,0,0,Raku
+.pml,1,1,1,1,0,Promela
+.pmod,1,1,1,0,0,Pike
+.po,1,0,1,0,0,Gettext Catalog
+.pod6,1,0,1,0,0,Pod 6
+.podsl,1,1,1,1,0,Common Lisp
+.podspec,1,1,1,0,0,Ruby
+.pogo,1,1,1,0,0,PogoScript
+.polar,1,0,1,0,0,Polar
+.pony,1,1,1,0,0,Pony
+.por,1,0,1,0,0,Portugol
+.postcss,1,1,1,0,0,PostCSS
+.pot,1,0,1,0,0,Gettext Catalog
+.pov,1,1,1,0,0,POV-Ray SDL
+.pprx,1,1,1,1,0,REXX
+.praat,1,0,1,0,0,Praat
+.prawn,1,1,1,0,0,Ruby
+.prefab,1,1,1,0,0,Unity3D Asset
+.prefs,1,1,1,0,0,INI
+.prg,1,1,1,0,0,xBase
+.pri,1,1,1,0,0,QMake
+.prisma,1,0,1,0,0,Prisma
+.prjpcb,1,0,1,0,0,Altium Designer
+.proj,1,1,1,0,0,XML
+.prolog,1,1,1,1,0,Prolog
+.props,1,1,1,0,0,XML
+.proto,1,0,1,0,0,Protocol Buffer
+.prw,1,1,1,0,0,xBase
+.ps,1,1,1,1,0,PostScript
+.ps1,1,1,1,1,0,PowerShell
+.ps1xml,1,1,1,0,0,XML
+.psc,1,1,1,0,0,Papyrus
+.psc1,1,1,1,0,0,XML
+.psd1,1,1,1,1,0,PowerShell
+.psgi,1,1,1,1,1,Perl
+.psm1,1,1,1,1,0,PowerShell
+.pt,1,1,1,0,0,XML
+.pub,1,0,1,0,0,Public Key
+.pug,1,1,1,0,0,Pug
+.puml,1,1,1,0,0,PlantUML
+.purs,1,1,1,1,0,PureScript
+.pwn,1,1,1,0,0,Pawn
+.pxd,1,1,1,1,0,Cython
+.pxi,1,1,1,1,0,Cython
+.py,1,0,1,0,1,Python
+.py3,1,0,1,0,1,Python
+.pyde,1,0,1,0,1,Python
+.pyi,1,0,1,0,1,Python
+.pyp,1,0,1,0,1,Python
+.pyt,1,0,1,0,1,Python
+.pytb,1,0,1,0,0,Python traceback
+.pyw,1,0,1,0,1,Python
+.pyx,1,1,1,1,0,Cython
+.qasm,1,0,1,1,0,OpenQASM
+.qbs,1,0,1,0,0,QML
+.qc,1,1,1,1,0,QuakeC
+.qhelp,1,1,1,0,0,XML
+.ql,1,1,1,0,0,CodeQL
+.qll,1,1,1,0,0,CodeQL
+.qmd,1,1,1,0,0,RMarkdown
+.qml,1,0,1,0,0,QML
+.r2,1,1,1,1,0,Rebol
+.r3,1,1,1,1,0,Rebol
+.rabl,1,1,1,0,0,Ruby
+.rake,1,1,1,0,0,Ruby
+.raku,1,1,1,0,0,Raku
+.rakumod,1,1,1,0,0,Raku
+.raml,1,0,1,0,0,RAML
+.raw,1,0,1,0,0,Raw token data
+.razor,1,0,1,0,0,HTML+Razor
+.rb,1,1,1,0,0,Ruby
+.rbbas,1,1,1,0,0,REALbasic
+.rbfrm,1,1,1,0,0,REALbasic
+.rbi,1,1,1,0,0,Ruby
+.rbmnu,1,1,1,0,0,REALbasic
+.rbres,1,1,1,0,0,REALbasic
+.rbs,1,1,1,0,0,RBS
+.rbtbar,1,1,1,0,0,REALbasic
+.rbuild,1,1,1,0,0,Ruby
+.rbuistate,1,1,1,0,0,REALbasic
+.rbw,1,1,1,0,0,Ruby
+.rbx,1,1,1,0,0,Ruby
+.rbxs,1,1,1,1,0,Lua
+.rchit,1,1,1,0,0,GLSL
+.rd,1,1,1,0,0,R
+.rdf,1,1,1,0,0,XML
+.rdoc,1,1,1,0,0,RDoc
+.reb,1,1,1,1,0,Rebol
+.rebol,1,1,1,1,0,Rebol
+.red,1,0,1,0,1,Red
+.reds,1,0,1,0,1,Red
+.reek,1,0,1,0,0,YAML
+.reg,1,1,1,0,0,Windows Registry Entries
+.regex,1,0,1,0,1,Regular Expression
+.regexp,1,0,1,0,1,Regular Expression
+.rego,1,0,1,0,0,Open Policy Agent
+.rei,1,1,1,0,0,Reason
+.religo,1,0,1,0,0,ReasonLIGO
+.resi,1,1,1,0,0,redscript
+.resource,1,1,1,0,0,RobotFramework
+.rest,1,1,1,0,0,reStructuredText
+.resx,1,1,1,0,0,XML
+.rex,1,1,1,1,0,REXX
+.rexx,1,1,1,1,0,REXX
+.rg,1,1,1,0,0,Rouge
+.rhtml,1,0,1,0,0,HTML+ERB
+.ring,1,1,1,0,0,Ring
+.riot,1,0,1,0,0,Riot
+.rkt,1,1,1,0,0,Racket
+.rktd,1,1,1,0,0,Racket
+.rktl,1,1,1,0,0,Racket
+.rl,1,1,1,0,0,Ragel
+.rmd,1,1,1,0,0,RMarkdown
+.rmiss,1,1,1,0,0,GLSL
+.rnh,1,1,1,0,0,RUNOFF
+.rnw,1,1,1,0,0,Sweave
+.robot,1,1,1,0,0,RobotFramework
+.roc,1,1,1,0,0,Roc
+.rockspec,1,1,1,1,0,Lua
+.roff,1,1,1,0,0,Roff
+.ron,1,1,1,0,0,RON
+.ronn,1,1,1,0,0,Markdown
+.rpgle,1,0,1,0,0,RPGLE
+.rq,1,1,1,0,0,SPARQL
+.rsh,1,1,1,0,0,RenderScript
+.rss,1,1,1,0,0,XML
+.rst,1,1,1,0,0,reStructuredText
+.rsx,1,1,1,0,0,R
+.rtf,1,0,1,0,0,Rich Text Format
+.ru,1,1,1,0,0,Ruby
+.ruby,1,1,1,0,0,Ruby
+.rviz,1,0,1,0,0,YAML
+.sage,1,1,1,0,0,Sage
+.sagews,1,1,1,0,0,Sage
+.sail,1,0,1,0,0,Sail
+.sarif,1,0,1,0,0,JSON
+.sas,1,1,1,0,1,SAS
+.sass,1,1,1,0,0,Sass
+.sats,1,1,1,0,0,ATS
+.sbt,1,1,1,0,0,Scala
+.scad,1,1,1,0,0,OpenSCAD
+.scala,1,1,1,0,0,Scala
+.scaml,1,1,1,0,0,Scaml
+.sce,1,1,1,1,0,Scilab
+.scenic,1,1,1,0,0,Scenic
+.schdoc,1,0,1,0,0,Altium Designer
+.sci,1,1,1,1,0,Scilab
+.sco,1,0,1,0,0,Csound Score
+.scpt,1,1,1,1,0,AppleScript
+.scrbl,1,1,1,0,0,Racket
+.scss,1,1,1,0,0,SCSS
+.scxml,1,1,1,0,0,XML
+.sdc,1,1,1,1,0,Tcl
+.sed,1,1,1,1,1,sed
+.self,1,1,1,0,1,Self
+.service,1,1,1,0,0,desktop
+.sexp,1,1,1,1,0,Common Lisp
+.sfd,1,1,1,0,0,Spline Font Database
+.sfproj,1,1,1,0,0,XML
+.sfv,1,0,1,0,0,Simple File Verification
+.sh,1,0,1,0,0,Shell
+.sh-session,1,0,1,0,0,ShellSession
+.sha1,1,0,1,0,0,Checksums
+.sha2,1,0,1,0,0,Checksums
+.sha224,1,0,1,0,0,Checksums
+.sha256,1,0,1,0,0,Checksums
+.sha256sum,1,0,1,0,0,Checksums
+.sha3,1,0,1,0,0,Checksums
+.sha384,1,0,1,0,0,Checksums
+.sha512,1,0,1,0,0,Checksums
+.shen,1,1,1,0,0,Shen
+.shproj,1,1,1,0,0,XML
+.sieve,1,1,1,0,0,Sieve
+.sig,1,1,1,1,0,Standard ML
+.sj,1,1,1,0,0,Objective-J
+.sjs,1,1,1,1,0,JavaScript
+.sl,1,1,1,0,0,Slash
+.slang,1,1,1,0,1,Slang
+.sld,1,1,1,0,0,Scheme
+.slim,1,1,1,0,1,Slim
+.slint,1,0,1,0,0,Slint
+.sln,1,0,1,0,0,Microsoft Visual Studio Solution
+.slnx,1,1,1,0,0,XML
+.sma,1,1,1,0,0,Pawn
+.smali,1,1,1,0,0,Smali
+.smithy,1,1,1,0,0,Smithy
+.smk,1,1,1,0,0,Snakemake
+.sml,1,1,1,1,0,Standard ML
+.smt,1,1,1,0,0,SMT
+.smt2,1,1,1,0,0,SMT
+.snakefile,1,1,1,0,0,Snakemake
+.snap,1,0,1,0,0,Jest Snapshot
+.snip,1,0,1,0,0,Vim Snippet
+.snippet,1,0,1,0,0,Vim Snippet
+.snippets,1,0,1,0,0,Vim Snippet
+.soy,1,1,1,0,0,Closure Templates
+.sp,1,1,1,0,0,SourcePawn
+.sparql,1,1,1,0,0,SPARQL
+.spc,1,0,1,0,0,PLSQL
+.spin,1,0,1,0,0,Propeller Spin
+.sps,1,1,1,0,0,Scheme
+.sqf,1,0,1,0,0,SQF
+.sqlrpgle,1,0,1,0,0,RPGLE
+.sra,1,1,1,1,0,PowerBuilder
+.srdf,1,1,1,0,0,XML
+.sru,1,1,1,1,0,PowerBuilder
+.srv,1,0,1,0,0,ROS Interface
+.srw,1,1,1,1,0,PowerBuilder
+.ss,1,1,1,0,0,Scheme
+.ssjs,1,1,1,1,0,JavaScript
+.sss,1,1,1,0,0,SugarSS
+.stan,1,1,1,0,0,Stan
+.sthlp,1,1,1,1,0,Stata
+.stl,1,1,1,0,0,STL
+.ston,1,1,1,0,0,STON
+.story,1,1,1,0,0,Gherkin
+.storyboard,1,1,1,0,0,XML
+.sttheme,1,0,1,0,0,XML Property List
+.sty,1,1,1,1,0,TeX
+.styl,1,1,1,0,0,Stylus
+.sublime-build,1,0,1,0,0,JSON with Comments
+.sublime-color-scheme,1,0,1,0,0,JSON with Comments
+.sublime-commands,1,0,1,0,0,JSON with Comments
+.sublime-completions,1,0,1,0,0,JSON with Comments
+.sublime-keymap,1,0,1,0,0,JSON with Comments
+.sublime-macro,1,0,1,0,0,JSON with Comments
+.sublime-menu,1,0,1,0,0,JSON with Comments
+.sublime-mousemap,1,0,1,0,0,JSON with Comments
+.sublime-project,1,0,1,0,0,JSON with Comments
+.sublime-settings,1,0,1,0,0,JSON with Comments
+.sublime-snippet,1,1,1,0,0,XML
+.sublime-syntax,1,0,1,0,0,YAML
+.sublime-theme,1,0,1,0,0,JSON with Comments
+.sublime-workspace,1,0,1,0,0,JSON with Comments
+.sublime_metrics,1,0,1,0,0,JSON with Comments
+.sublime_session,1,0,1,0,0,JSON with Comments
+.sv,1,1,1,0,0,SystemVerilog
+.svelte,1,1,1,0,0,Svelte
+.svg,1,1,1,0,0,SVG
+.svh,1,1,1,0,0,SystemVerilog
+.swg,1,0,1,0,0,SWIG
+.swift,1,1,1,0,0,Swift
+.swig,1,0,1,0,0,SWIG
+.syntax,1,0,1,0,0,YAML
+.tab,1,1,1,1,0,SQL
+.tac,1,0,1,0,1,Python
+.tag,1,1,1,0,0,Java Server Pages
+.talon,1,0,1,0,0,Talon
+.targets,1,1,1,0,0,XML
+.tcc,1,0,1,1,1,C++
+.tcl,1,1,1,1,0,Tcl
+.tcsh,1,1,1,0,0,Tcsh
+.te,1,0,1,0,0,SELinux Policy
+.tea,1,1,1,0,0,Tea
+.templ,1,0,1,0,0,templ
+.tesc,1,1,1,0,0,GLSL
+.tese,1,1,1,0,0,GLSL
+.tex,1,1,1,1,0,TeX
+.texi,1,0,1,0,0,Texinfo
+.texinfo,1,0,1,0,0,Texinfo
+.textgrid,1,0,1,0,0,TextGrid
+.textile,1,1,1,0,1,Textile
+.textproto,1,0,1,0,0,Protocol Buffer Text Format
+.tf,1,1,1,0,0,HCL
+.tfstate,1,0,1,0,0,JSON
+.tftpl,1,0,1,0,0,Terraform Template
+.tfvars,1,1,1,0,0,HCL
+.thor,1,1,1,0,0,Ruby
+.thrift,1,1,1,0,0,Thrift
+.thy,1,1,1,0,0,Isabelle
+.tla,1,1,1,0,0,TLA
+.tlv,1,0,1,0,0,TL-Verilog
+.tm,1,1,1,1,0,Tcl
+.tmac,1,1,1,0,0,Roff
+.tmcommand,1,0,1,0,0,XML Property List
+.tml,1,1,1,0,0,XML
+.tmlanguage,1,0,1,0,0,XML Property List
+.tmpreferences,1,0,1,0,0,XML Property List
+.tmsnippet,1,0,1,0,0,XML Property List
+.tmtheme,1,0,1,0,0,XML Property List
+.tmux,1,0,1,0,0,Shell
+.toit,1,1,1,0,0,Toit
+.toml,1,1,1,0,0,TOML
+.tool,1,0,1,0,0,Shell
+.topojson,1,0,1,0,0,JSON
+.tpb,1,0,1,0,0,PLSQL
+.tpl,1,1,1,0,0,Smarty
+.tpp,1,0,1,1,1,C++
+.tps,1,0,1,0,0,PLSQL
+.tres,1,0,1,0,0,Godot Resource
+.trg,1,0,1,0,0,PLSQL
+.tscn,1,0,1,0,0,Godot Resource
+.tsv,1,0,1,0,0,TSV
+.ttl,1,1,1,0,0,Turtle
+.tu,1,1,1,0,0,Turing
+.twig,1,1,1,0,0,Twig
+.txi,1,0,1,0,0,Texinfo
+.txl,1,1,1,0,0,TXL
+.txx,1,0,1,1,1,C++
+.uc,1,1,1,1,0,UnrealScript
+.udf,1,1,1,1,0,SQL
+.udo,1,1,1,1,0,Csound
+.ui,1,1,1,0,0,XML
+.unity,1,1,1,0,0,Unity3D Asset
+.uno,1,1,1,0,0,Uno
+.upc,1,1,1,0,0,Unified Parallel C
+.uplc,1,0,1,0,0,Untyped Plutus Core
+.ur,1,1,1,0,0,UrWeb
+.urdf,1,1,1,0,0,XML
+.url,1,1,1,0,0,INI
+.urs,1,1,1,0,0,UrWeb
+.ux,1,1,1,0,0,XML
+.vala,1,1,1,0,0,Vala
+.vapi,1,1,1,0,0,Vala
+.vark,1,1,1,0,0,Gosu
+.vb,1,1,1,1,0,Visual Basic .NET
+.vbhtml,1,1,1,1,0,Visual Basic .NET
+.vbproj,1,1,1,0,0,XML
+.vbs,1,1,1,0,0,VBScript
+.vcl,1,1,1,0,0,VCL
+.vcxproj,1,1,1,0,0,XML
+.vdf,1,0,1,0,0,Valve Data Format
+.veo,1,1,1,0,0,Verilog
+.vert,1,1,1,0,0,GLSL
+.vh,1,1,1,0,0,SystemVerilog
+.vhd,1,1,1,0,0,VHDL
+.vhdl,1,1,1,0,0,VHDL
+.vhf,1,1,1,0,0,VHDL
+.vhi,1,1,1,0,0,VHDL
+.vho,1,1,1,0,0,VHDL
+.vhs,1,1,1,0,0,VHDL
+.vht,1,1,1,0,0,VHDL
+.vhw,1,1,1,0,0,VHDL
+.vim,1,1,1,0,0,Vim Script
+.vimrc,1,1,1,0,0,Vim Script
+.viw,1,1,1,1,0,SQL
+.vmb,1,1,1,0,0,Vim Script
+.volt,1,1,1,0,0,Volt
+.vrx,1,1,1,0,0,GLSL
+.vs,1,1,1,0,0,GLSL
+.vsh,1,1,1,0,0,GLSL
+.vshader,1,1,1,0,0,GLSL
+.vsixmanifest,1,1,1,0,0,XML
+.vssettings,1,1,1,0,0,XML
+.vstemplate,1,1,1,0,0,XML
+.vtl,1,0,1,0,0,Velocity Template Language
+.vto,1,0,1,0,0,Vento
+.vtt,1,0,1,0,0,WebVTT
+.vue,1,0,1,0,0,Vue
+.vw,1,0,1,0,0,PLSQL
+.vxml,1,1,1,0,0,XML
+.vy,1,0,1,0,0,Vyper
+.wast,1,0,1,1,0,WebAssembly
+.wat,1,0,1,1,0,WebAssembly
+.watchr,1,1,1,0,0,Ruby
+.wdl,1,1,1,0,0,WDL
+.webapp,1,0,1,0,0,JSON
+.webidl,1,0,1,0,0,WebIDL
+.webmanifest,1,0,1,0,0,JSON
+.weechatlog,1,1,1,0,0,IRC log
+.wgsl,1,1,1,0,0,WGSL
+.whiley,1,1,1,0,0,Whiley
+.wiki,1,0,1,0,0,Wikitext
+.wikitext,1,0,1,0,0,Wikitext
+.wisp,1,1,1,0,0,wisp
+.wit,1,0,1,0,0,WebAssembly Interface Type
+.wixproj,1,1,1,0,0,XML
+.wl,1,0,1,1,0,Wolfram Language
+.wlk,1,0,1,0,0,Wollok
+.wls,1,0,1,1,0,Wolfram Language
+.wlt,1,0,1,1,0,Wolfram Language
+.wlua,1,1,1,1,0,Lua
+.workbook,1,1,1,0,0,Markdown
+.wren,1,1,1,0,0,Wren
+.ws,1,0,1,0,0,Witcher Script
+.wsdl,1,1,1,0,0,XML
+.wsf,1,1,1,0,0,XML
+.wsgi,1,0,1,0,1,Python
+.wxi,1,1,1,0,0,XML
+.wxl,1,1,1,0,0,XML
+.wxs,1,1,1,0,0,XML
+.x10,1,1,1,0,0,X10
+.x3d,1,1,1,0,0,XML
+.x68,1,0,1,0,0,Motorola 68K Assembly
+.xacro,1,1,1,0,0,XML
+.xaml,1,1,1,0,0,XML
+.xbm,1,1,1,0,0,X BitMap
+.xc,1,1,1,0,0,XC
+.xdc,1,1,1,1,0,Tcl
+.xht,1,1,1,0,0,HTML
+.xhtml,1,1,1,0,0,HTML
+.xi,1,1,1,0,1,Logos
+.xib,1,1,1,0,0,XML
+.xlf,1,1,1,0,0,XML
+.xliff,1,1,1,0,0,XML
+.xm,1,1,1,0,1,Logos
+.xmi,1,1,1,0,0,XML
+.xml,1,1,1,0,0,XML
+.xmp,1,1,1,0,0,XML
+.xojo_code,1,1,1,1,0,Xojo
+.xojo_menu,1,1,1,1,0,Xojo
+.xojo_report,1,1,1,1,0,Xojo
+.xojo_script,1,1,1,1,0,Xojo
+.xojo_toolbar,1,1,1,1,0,Xojo
+.xojo_window,1,1,1,1,0,Xojo
+.xpl,1,1,1,0,0,XProc
+.xpm,1,1,1,0,0,X PixMap
+.xproc,1,1,1,0,0,XProc
+.xproj,1,1,1,0,0,XML
+.xpy,1,0,1,0,1,Python
+.xq,1,1,1,1,0,XQuery
+.xql,1,1,1,1,0,XQuery
+.xqm,1,1,1,1,0,XQuery
+.xquery,1,1,1,1,0,XQuery
+.xqy,1,1,1,1,0,XQuery
+.xrl,1,1,1,0,0,Erlang
+.xs,1,1,1,0,1,XS
+.xsd,1,1,1,0,0,XML
+.xsh,1,0,1,0,0,Xonsh
+.xsjs,1,1,1,1,0,JavaScript
+.xsjslib,1,1,1,1,0,JavaScript
+.xsl,1,1,1,1,0,XSLT
+.xslt,1,1,1,1,0,XSLT
+.xsp-config,1,1,1,0,0,XPages
+.xspec,1,1,1,0,0,XML
+.xtend,1,1,1,1,0,Xtend
+.xul,1,1,1,0,0,XML
+.xzap,1,0,1,0,0,ZAP
+.y,1,1,1,0,0,Yacc
+.yacc,1,1,1,0,0,Yacc
+.yaml-tmlanguage,1,0,1,0,0,YAML
+.yang,1,1,1,0,0,YANG
+.yap,1,1,1,1,0,Prolog
+.yar,1,1,1,0,0,YARA
+.yara,1,1,1,0,0,YARA
+.yasnippet,1,1,1,0,0,YASnippet
+.yrl,1,1,1,0,0,Erlang
+.yul,1,1,1,0,0,Yul
+.yyp,1,0,1,0,0,JSON
+.z3,1,1,1,0,0,SMT
+.zap,1,0,1,0,0,ZAP
+.zcml,1,1,1,0,0,XML
+.zeek,1,1,1,0,0,Zeek
+.zep,1,1,1,0,0,Zephir
+.zig,1,1,1,0,0,Zig
+.zil,1,1,1,0,0,ZIL
+.zimpl,1,1,1,0,0,Zimpl
+.zmodel,1,0,1,0,0,Zmodel
+.zmpl,1,1,1,0,0,Zimpl
+.zone,1,0,1,0,0,DNS Zone
+.zpl,1,1,1,0,0,Zimpl
+.zs,1,1,1,0,0,ZenScript
+.zsh,1,0,1,0,0,Shell
+.zsh-theme,1,0,1,0,0,Shell
