@@ -6,15 +6,7 @@ and `exploratory.ipynb`
 
 so far almost 12K languages and some meta-information like
 ```
-'lang_id', 'canonical_name', 'source_flags', 'types', 'extensions',
-       'first_appeared', 'homepage', 'paradigms', 'typing', 'designed_by',
-       'influenced_by', 'hello_world', 'linguist_key', 'evidence_urls',
-       'notes', 'in_pldb', 'in_linguist', 'in_wikipedia', 'in_esolang',
-       'has_extensions', 'has_paradigm', 'has_typing', 'has_hello_world',
-       'source_count', 'alias_count', 'hyperpolyglot_name', 'in_hyperpolyglot',
-       'hp_type', 'hp_group', 'hp_color', 'pygments_name', 'in_pygments',
-       'pygments_module', 'pygments_class', 'pygments_aliases',
-       'pygments_filenames', 'pygments_mimetypes'
+lang_id,canonical_name,source_flags,types,extensions,first_appeared,homepage,paradigms,typing,designed_by,influenced_by,hello_world,linguist_key,evidence_urls,notes,in_pldb,in_linguist,in_wikipedia,in_esolang,has_extensions,has_paradigm,has_typing,has_hello_world,source_count,alias_count,hyperpolyglot_name,in_hyperpolyglot,hp_type,hp_group,hp_color,pygments_name,in_pygments,pygments_module,pygments_class,pygments_aliases,pygments_filenames,pygments_mimetypes,in_rosettacode,rosettacode_name,rosettacode_url,rosettacode_summary,rosettacode_tasks_count
 ```
 
 
