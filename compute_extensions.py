@@ -2,7 +2,7 @@
 import pathlib, re, pandas as pd
 
 DER = pathlib.Path("data/derived")
-INP = DER / "languages_master_augmented_pygments.csv"
+INP = DER / "languages.csv"
 OUT = DER / "extensions_inventory.csv"
 
 VALID_EXT = re.compile(r"^\.[A-Za-z0-9_+-]+$")
