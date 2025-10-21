@@ -43,7 +43,7 @@ extension  count_total  count_pldb  count_linguist  count_wikipedia  count_esola
 
 ## PLs supported by some PLI tools... but not in the original "main" list (coming from Wikipedia, PLDB, Esolang)
 
-see `data/derived/pygments_missing_from_master.csv` and `hyperpolyglot_missing_from_master.csv`
+see `data/derived/pygments_missing_from_master.csv` and `data/derived/hyperpolyglot_missing_from_master.csv` and `data/derived/rosettacode_missing_from_master.csv`
 needs more inquiry
 
 ## Reproducing
