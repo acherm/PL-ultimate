@@ -45,6 +45,13 @@ extension  count_total  count_pldb  count_linguist  count_wikipedia  count_esola
 [info] Rows with extensions in master: 743 / 11857
 ```
 
+```
+python augment_languages.py \
+  --in data/derived/languages_master.csv \
+  --out data/derived/languages_master_augmented.csv \
+  --missing data/derived/hyperpolyglot_missing_from_master.csv
+```
+
 ## Reproducing
 
 `git clone https://github.com/breck7/pldb`
