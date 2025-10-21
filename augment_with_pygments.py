@@ -1,36 +1,38 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-augment_with_pygments.py
-------------------------
-Augment data/derived/languages_master_augmented.csv using Pygments' lexer mapping:
-  https://github.com/pygments/pygments/blob/master/pygments/lexers/_mapping.py
+augment_with_pygments.py (hardened)
+-----------------------------------
+Augment data/derived/languages_master_augmented.csv using Pygments' lexer mapping.
 
-Adds columns (per matched language):
+Adds columns:
   - in_pygments (bool)
-  - pygments_name (canonical Pygments display name)
-  - pygments_module, pygments_class
-  - pygments_aliases (semicolon-separated)
-  - pygments_filenames (semicolon-separated)
-  - pygments_mimetypes (semicolon-separated)
+  - pygments_name           (display name key in LEXERS, e.g., "Mojo")
+  - pygments_module         (e.g., "pygments.lexers.mojo")
+  - pygments_class          (e.g., "MojoLexer")
+  - pygments_aliases        (semicolon-joined)
+  - pygments_filenames      (semicolon-joined)
+  - pygments_mimetypes      (semicolon-joined)
 
-Also writes a report of languages that exist in Pygments but were not matched:
+Also writes Pygments-only report:
   data/derived/pygments_missing_from_master.csv
 
-Extra heuristics:
-  - Built-in alias table expanded (e.g., "vim script" -> VimL).
-  - If name/alias matching fails, scan the row text for filename/extension tokens
-    derived from Pygments filename patterns (*.ext, exact filenames). Choose the
-    candidate with the longest matching token.
+Heuristics:
+  1) Name/aliases: match normalized hyperpolyglot_name (or fallback column) to
+     Pygments display-name or aliases (safe normalization; empty aliases dropped).
+  2) Filename/extension (SAFE): only scan user-declared extension columns
+     (auto-detects cols whose names include: ext, file, pattern, filename).
+     No whole-row substring scanning. Requires tokens like ".vim", "vimrc".
+  3) Token filters: ignore tokens shorter than 3 chars unless token starts with
+     a dot and has length >= 3 (e.g., ".vim" ok, ".c" ignored).
 
-Usage (defaults):
-  python augment_with_pygments.py
-Or explicit:
+Usage:
   python augment_with_pygments.py \
     --in data/derived/languages_master_augmented.csv \
     --out data/derived/languages_master_augmented_pygments.csv \
     --missing data/derived/pygments_missing_from_master.csv \
-    --langcol name  # if auto-detect fails
+    [--langcol name] \
+    [--extcols extensions,filenames]
 
 Requires: requests, pandas
 """
@@ -38,7 +40,7 @@ from __future__ import annotations
 
 import argparse, ast, re, sys
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Iterable
 
 import pandas as pd
 import requests
@@ -60,7 +62,6 @@ def normalize_key(s: str) -> str:
     return s
 
 def builtin_alias_table() -> Dict[str,str]:
-    # Pragmatic normalizations that map to Pygments alias keys or display names
     return {
         "c sharp": "csharp", "c-sharp": "csharp", "c#": "csharp",
         "f sharp": "fsharp", "f-sharp": "fsharp", "f#": "fsharp",
@@ -78,22 +79,17 @@ def builtin_alias_table() -> Dict[str,str]:
         "jsonc": "json", "json5": "json",
         "pl/sql": "plsql", "pl-sql": "plsql", "plpgsql": "postgresql",
         "powershell": "powershell",
-        # Vim special-casing
         "vim script": "viml", "vimscript": "viml",
     }
 
 # --------------------------- Fetch & Parse Pygments ---------------------------
 
 def fetch_text(url: str) -> str:
-    r = requests.get(url, headers={"Accept": "text/plain"}, timeout=30)
+    r = requests.get(url, headers={"Accept": "text/plain"}, timeout=45)
     r.raise_for_status()
     return r.text
 
 def extract_lexers_mapping(src_text: str) -> Dict[str, Tuple[str, str, List[str], List[str], List[str]]]:
-    """
-    Parse the Python source to get the LEXERS dict safely via AST.
-    LEXERS is a dict mapping display-name -> (module, class, aliases, filenames, mimetypes)
-    """
     tree = ast.parse(src_text, filename="_mapping.py", mode="exec")
     lexers_node = None
     for node in tree.body:
@@ -114,22 +110,31 @@ def extract_lexers_mapping(src_text: str) -> Dict[str, Tuple[str, str, List[str]
                           [str(m) for m in mimetypes])
     return out
 
-# --------------------------- Build Indexes ---------------------------
+# --------------------------- Indexes ---------------------------
 
-def build_pygments_index(lexers: Dict[str, Tuple[str, str, List[str], List[str], List[str]]]):
+def build_pygments_indexes(lexers):
     """
     Returns:
-      - name2meta: canonical display-name -> meta dict
-      - alias_index: normalized token -> canonical display-name (covers name + aliases)
-      - filename_index: token ('.ext' or bare filename) -> set of canonical display-names
+      - name2meta: display-name -> meta
+      - alias_index: normalized token -> display-name (display-name & aliases)
+      - fname_index: filename/ext token -> set(display-name)
     """
     name2meta = {}
     alias_index: Dict[str, str] = {}
-    filename_index: Dict[str, set] = {}
+    fname_index: Dict[str, set] = {}
 
-    def add_filename_token(tok: str, disp: str):
-        tok = tok.lower()
-        filename_index.setdefault(tok, set()).add(disp)
+    def add_fname_token(tok: str, disp: str):
+        tok = tok.strip().lower()
+        if not tok:
+            return
+        # ignore very short tokens like ".c"
+        if tok.startswith("."):
+            if len(tok) < 3:  # ".c" length 2 -> ignore
+                return
+        else:
+            if len(tok) < 3:
+                return
+        fname_index.setdefault(tok, set()).add(disp)
 
     for disp, (mod, cls, aliases, filenames, mimetypes) in lexers.items():
         meta = {
@@ -141,73 +146,91 @@ def build_pygments_index(lexers: Dict[str, Tuple[str, str, List[str], List[str],
             "pygments_mimetypes": mimetypes,
         }
         name2meta[disp] = meta
-        # Index display-name and aliases
-        alias_index[normalize_key(disp)] = disp
-        for a in aliases:
-            alias_index[normalize_key(a)] = disp
 
-        # Build filename/extension tokens
+        # Index display-name and aliases
+        nk = normalize_key(disp)
+        if nk:
+            alias_index[nk] = disp
+        for a in aliases:
+            ak = normalize_key(a)
+            if ak:  # drop empty alias like "🔥" -> ""
+                alias_index[ak] = disp
+
+        # Filename tokens
         for pat in filenames:
             p = pat.strip()
             if not p:
                 continue
-            # Extract extension like '*.vim' -> '.vim'
             m = re.match(r'^\*\.(?P<ext>[A-Za-z0-9_+\-\.]+)$', p)
             if m:
-                add_filename_token("." + m.group("ext").lower().lstrip("."), disp)
-                continue
-            # Bare filenames like 'vimrc', '.vimrc', '_vimrc', 'Makefile'
-            # Normalize leading underscores/dots by keeping both raw and stripped variants
-            bare = p.lstrip("./")
-            add_filename_token(bare, disp)
-            add_filename_token(bare.lstrip("_."), disp)
+                add_fname_token("." + m.group("ext").lower().lstrip("."), disp)
+            else:
+                bare = p.lstrip("./")
+                add_fname_token(bare, disp)
+                add_fname_token(bare.lstrip("_."), disp)
 
-    return name2meta, alias_index, filename_index
+    return name2meta, alias_index, fname_index
 
 # --------------------------- Matching ---------------------------
 
-def pick_master_name(row, langcol_candidates: List[str]) -> str:
+def pick_master_name(row, candidates: List[str]) -> str:
     if "hyperpolyglot_name" in row and pd.notna(row["hyperpolyglot_name"]) and str(row["hyperpolyglot_name"]).strip():
         return str(row["hyperpolyglot_name"])
-    for c in langcol_candidates:
+    for c in candidates:
         if c in row and pd.notna(row[c]) and str(row[c]).strip():
             return str(row[c])
     return ""
 
-def row_text_blob(row) -> str:
-    # Concatenate all stringable fields to allow filename/extension scanning
-    try:
-        return " | ".join([str(v) for v in row.values]).lower()
-    except Exception:
-        return ""
+def split_ext_tokens(val: str) -> Iterable[str]:
+    if not val or not isinstance(val, str):
+        return []
+    # tokens like ".vim", "vimrc", "*.vim" -> ".vim"
+    # Split on whitespace or commas/semicolons
+    rough = re.split(r"[,\s;|]+", val.strip())
+    for t in rough:
+        t = t.strip()
+        if not t:
+            continue
+        if t.startswith("*."):
+            t = "." + t[2:]
+        yield t
 
-def match_to_pygments(name: str, row_blob: str, alias_index: Dict[str,str], filename_index: Dict[str,set], builtin_aliases: Dict[str,str]) -> Optional[str]:
-    # Name/alias path
+def gather_row_ext_tokens(row, extcols: List[str]) -> List[str]:
+    tokens = []
+    for col in extcols:
+        if col in row and pd.notna(row[col]):
+            for t in split_ext_tokens(str(row[col])):
+                tokens.append(t.lower())
+    return tokens
+
+def autodetect_extcols(columns: List[str]) -> List[str]:
+    keys = ("ext", "file", "pattern", "filename")
+    chosen = [c for c in columns if any(k in c.lower() for k in keys)]
+    # De-dup while preserving order
+    seen = set(); out = []
+    for c in chosen:
+        if c not in seen:
+            out.append(c); seen.add(c)
+    return out
+
+def match_to_pygments(name: str, row_ext_tokens: List[str], alias_index: Dict[str,str], fname_index: Dict[str,set], builtin_aliases: Dict[str,str]) -> Optional[str]:
     key = normalize_key(name)
     if key in alias_index:
         return alias_index[key]
     if key in builtin_aliases:
-        alias_key = normalize_key(builtin_aliases[key])
-        if alias_key in alias_index:
-            return alias_index[alias_key]
+        alt = normalize_key(builtin_aliases[key])
+        if alt in alias_index:
+            return alias_index[alt]
 
-    # Filename/extension heuristic
-    # Gather all candidate display-names from tokens found in the row blob
+    # filename/ext heuristic (strict)
     candidates = []
-    for tok, names in filename_index.items():
-        if tok and tok in row_blob:
-            for disp in names:
+    for tok in row_ext_tokens:
+        if tok in fname_index:
+            for disp in fname_index[tok]:
                 candidates.append((len(tok), tok, disp))
     if candidates:
-        # prefer the longest matching token
-        candidates.sort(reverse=True)  # by length, then lexicographic
+        candidates.sort(reverse=True)
         return candidates[0][2]
-
-    # Simple hyphen/space collapsing
-    for k2 in {key.replace(" ", "-"), key.replace("-", " "), key.replace(" ", "")}:
-        if k2 in alias_index:
-            return alias_index[k2]
-
     return None
 
 # --------------------------- Main ---------------------------
@@ -218,27 +241,30 @@ def main():
     ap.add_argument("--out", dest="out_csv", default="data/derived/languages_master_augmented_pygments.csv", help="Output augmented CSV path")
     ap.add_argument("--missing", dest="missing_csv", default="data/derived/pygments_missing_from_master.csv", help="Output Pygments-only report CSV path")
     ap.add_argument("--langcol", dest="langcol", default=None, help="Language name column in input CSV (optional)")
+    ap.add_argument("--extcols", dest="extcols", default=None, help="Comma-separated list of extension/filename columns to use")
     args = ap.parse_args()
 
-    # Load
     df = pd.read_csv(args.in_csv)
 
-    # Candidate columns
+    # Language column candidates
     candidates = ["hyperpolyglot_name", args.langcol] if args.langcol else ["hyperpolyglot_name", "language", "lang", "name", "language_name", "programming_language"]
     candidates = [c for c in candidates if c is not None]
 
-    # Fetch and parse Pygments
+    # Extension columns
+    extcols = [c.strip() for c in args.extcols.split(",")] if args.extcols else autodetect_extcols(list(df.columns))
+
+    # Fetch + build indexes
     mapping_src = fetch_text(PYGMENTS_MAPPING_URL)
     lexers = extract_lexers_mapping(mapping_src)
-    name2meta, alias_index, filename_index = build_pygments_index(lexers)
+    name2meta, alias_index, fname_index = build_pygments_indexes(lexers)
     builtin_aliases = builtin_alias_table()
 
     # Match & enrich
     pyg_matches: List[Optional[str]] = []
     for _, row in df.iterrows():
         master_name = pick_master_name(row, candidates)
-        blob = row_text_blob(row)
-        pyg_name = match_to_pygments(master_name, blob, alias_index, filename_index, builtin_aliases)
+        ext_tokens = gather_row_ext_tokens(row, extcols)
+        pyg_name = match_to_pygments(master_name, ext_tokens, alias_index, fname_index, builtin_aliases)
         pyg_matches.append(pyg_name)
 
     df["pygments_name"] = pyg_matches
@@ -253,11 +279,9 @@ def main():
     df["pygments_filenames"] = df["pygments_name"].map(lambda n: join_list(name2meta.get(n, {}).get("pygments_filenames")) if n else None)
     df["pygments_mimetypes"] = df["pygments_name"].map(lambda n: join_list(name2meta.get(n, {}).get("pygments_mimetypes")) if n else None)
 
-    # Save augmented
     Path(args.out_csv).parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(args.out_csv, index=False)
 
-    # Report: what's in Pygments but missing from master
     matched = set([m for m in pyg_matches if m])
     pyg_all = set(name2meta.keys())
     pyg_only = sorted(pyg_all - matched)
