@@ -1,7 +1,7 @@
 # Programming languages
 
 Trying to compile all programming languages
-see `data/derived/languages_master_augmented_pygments.csv` (based on Wikipedia, linguist, esolang, and pldb... and also PLI detections tools like pygments, hyperpolyglot, etc.)
+see `data/derived/languages_master_augmented_pygments.csv` (based on Wikipedia, linguist, esolang, Rosetta, and pldb... and also PLI detections tools like pygments, hyperpolyglot, etc.)
 and `exploratory.ipynb`
 
 so far almost 12K languages and some meta-information like
@@ -83,4 +83,19 @@ python augment_with_pygments.py \
   --in data/derived/languages_master_augmented.csv \
   --out data/derived/languages_master_augmented_pygments.csv \
   --missing data/derived/pygments_missing_from_master.csv
+```
+
+Augmented with Rosetta https://rosettacode.org/wiki/Category:Programming_Languages
+```
+python augment_with_rosettacode.py \
+  --in data/derived/languages_master_augmented_pygments.csv \
+  --out data/derived/languages_master_augmented_rosettacode.csv \
+  --missing data/derived/rosettacode_missing_from_master.csv \
+  --dump data/derived/rosettacode_languages.csv
+
+# inspect a few mappings, incl. ALGOL*
+python inspect_rosetta_matches.py \
+  --master data/derived/languages_master_augmented_rosettacode.csv \
+  --rc data/derived/rosettacode_languages.csv \
+  --out data/derived/rosettacode_match_details.csv
 ```
