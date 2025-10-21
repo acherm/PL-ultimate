@@ -1,0 +1,978 @@
+rosettacode_name,rosettacode_url,matched,master_row_index
+.QL,https://rosettacode.org/wiki/.QL,True,2356.0
+0815,https://rosettacode.org/wiki/0815,True,19.0
+11l,https://rosettacode.org/wiki/11l,False,
+1C,https://rosettacode.org/wiki/1C,True,65.0
+360 Assembly,https://rosettacode.org/wiki/360_Assembly,False,
+4D,https://rosettacode.org/wiki/4D,True,179.0
+4DOS Batch,https://rosettacode.org/wiki/4DOS_Batch,True,6934.0
+4ME,https://rosettacode.org/wiki/4ME,True,187.0
+6502 Assembly,https://rosettacode.org/wiki/6502_Assembly,False,
+6800 Assembly,https://rosettacode.org/wiki/6800_Assembly,False,
+68000 Assembly,https://rosettacode.org/wiki/68000_Assembly,False,
+8 1/2,https://rosettacode.org/wiki/8_1/2,False,
+80386 Assembly,https://rosettacode.org/wiki/80386_Assembly,False,
+8051 Assembly,https://rosettacode.org/wiki/8051_Assembly,False,
+8080 Assembly,https://rosettacode.org/wiki/8080_Assembly,False,
+8086 Assembly,https://rosettacode.org/wiki/8086_Assembly,False,
+8th,https://rosettacode.org/wiki/8th,True,227.0
+A+,https://rosettacode.org/wiki/A+,True,242.0
+AArch64 Assembly,https://rosettacode.org/wiki/AArch64_Assembly,False,
+ABAP,https://rosettacode.org/wiki/ABAP,True,295.0
+ABC,https://rosettacode.org/wiki/ABC,True,299.0
+ACL2,https://rosettacode.org/wiki/ACL2,True,344.0
+AHDL,https://rosettacode.org/wiki/AHDL,False,
+AIDED NATURAL LANGUAGE,https://rosettacode.org/wiki/AIDED_NATURAL_LANGUAGE,False,
+ALGOL,https://rosettacode.org/wiki/ALGOL,True,301.0
+ALGOL 60,https://rosettacode.org/wiki/ALGOL_60,True,524.0
+ALGOL 68,https://rosettacode.org/wiki/ALGOL_68,True,525.0
+ALGOL W,https://rosettacode.org/wiki/ALGOL_W,True,529.0
+ALGOL-M,https://rosettacode.org/wiki/ALGOL-M,False,
+AMPL,https://rosettacode.org/wiki/AMPL,True,620.0
+ANSI BASIC,https://rosettacode.org/wiki/ANSI_BASIC,True,675.0
+ANT,https://rosettacode.org/wiki/ANT,True,677.0
+ANTLR,https://rosettacode.org/wiki/ANTLR,True,691.0
+APL,https://rosettacode.org/wiki/APL,True,717.0
+ARM Assembly,https://rosettacode.org/wiki/ARM_Assembly,False,
+ASIC,https://rosettacode.org/wiki/ASIC,True,534.0
+ASP,https://rosettacode.org/wiki/ASP,True,863.0
+ASP.Net,https://rosettacode.org/wiki/ASP.Net,True,864.0
+ATS,https://rosettacode.org/wiki/ATS,True,912.0
+AWK,https://rosettacode.org/wiki/AWK,True,968.0
+Acornsoft Lisp,https://rosettacode.org/wiki/Acornsoft_Lisp,False,
+Action!,https://rosettacode.org/wiki/Action!,True,362.0
+ActionScript,https://rosettacode.org/wiki/ActionScript,True,366.0
+Acurity Architect,https://rosettacode.org/wiki/Acurity_Architect,False,
+Ada,https://rosettacode.org/wiki/Ada,True,376.0
+Adina,https://rosettacode.org/wiki/Adina,False,
+Agda,https://rosettacode.org/wiki/Agda,True,439.0
+Agda2,https://rosettacode.org/wiki/Agda2,False,
+Agena,https://rosettacode.org/wiki/Agena,False,
+Aikido,https://rosettacode.org/wiki/Aikido,False,
+Aime,https://rosettacode.org/wiki/Aime,True,464.0
+Algae,https://rosettacode.org/wiki/Algae,True,511.0
+Alice ML,https://rosettacode.org/wiki/Alice_ML,False,
+Alore,https://rosettacode.org/wiki/Alore,False,
+Amazing Hopper,https://rosettacode.org/wiki/Amazing_Hopper,False,
+AmbientTalk,https://rosettacode.org/wiki/AmbientTalk,True,596.0
+AmigaBASIC,https://rosettacode.org/wiki/AmigaBASIC,True,610.0
+AmigaE,https://rosettacode.org/wiki/AmigaE,True,608.0
+AngelScript,https://rosettacode.org/wiki/AngelScript,True,657.0
+Anyways,https://rosettacode.org/wiki/Anyways,True,696.0
+Apex,https://rosettacode.org/wiki/Apex,True,713.0
+App Inventor,https://rosettacode.org/wiki/App_Inventor,False,
+Apple,https://rosettacode.org/wiki/Apple,True,740.0
+AppleScript,https://rosettacode.org/wiki/AppleScript,True,745.0
+Applesoft BASIC,https://rosettacode.org/wiki/Applesoft_BASIC,True,746.0
+Application Master,https://rosettacode.org/wiki/Application_Master,False,
+Apricot,https://rosettacode.org/wiki/Apricot,False,
+Aquarius BASIC,https://rosettacode.org/wiki/Aquarius_BASIC,False,
+Arbre,https://rosettacode.org/wiki/Arbre,False,
+Arc,https://rosettacode.org/wiki/Arc,True,767.0
+Arendelle,https://rosettacode.org/wiki/Arendelle,False,
+Argile,https://rosettacode.org/wiki/Argile,False,
+Aria,https://rosettacode.org/wiki/Aria,False,
+ArkScript,https://rosettacode.org/wiki/ArkScript,True,795.0
+ArnoldC,https://rosettacode.org/wiki/ArnoldC,True,804.0
+Arturo,https://rosettacode.org/wiki/Arturo,True,830.0
+AsciiDots,https://rosettacode.org/wiki/AsciiDots,True,841.0
+AspectC++,https://rosettacode.org/wiki/AspectC++,False,
+AspectJ,https://rosettacode.org/wiki/AspectJ,True,867.0
+Assembly,https://rosettacode.org/wiki/Assembly,True,711.0
+AssemblyScript,https://rosettacode.org/wiki/AssemblyScript,True,880.0
+Astro,https://rosettacode.org/wiki/Astro,True,890.0
+Asymptote,https://rosettacode.org/wiki/Asymptote,True,894.0
+Atari BASIC,https://rosettacode.org/wiki/Atari_BASIC,True,897.0
+AutoHotKey V2,https://rosettacode.org/wiki/AutoHotKey_V2,False,
+AutoHotkey,https://rosettacode.org/wiki/AutoHotkey,True,945.0
+AutoIt,https://rosettacode.org/wiki/AutoIt,True,946.0
+AutoLISP,https://rosettacode.org/wiki/AutoLISP,True,947.0
+Autohotkey V2,https://rosettacode.org/wiki/Autohotkey_V2,False,
+Avail,https://rosettacode.org/wiki/Avail,True,959.0
+Axe,https://rosettacode.org/wiki/Axe,False,
+Axiom,https://rosettacode.org/wiki/Axiom,True,975.0
+Axum,https://rosettacode.org/wiki/Axum,True,980.0
+Ayrch,https://rosettacode.org/wiki/Ayrch,False,
+B,https://rosettacode.org/wiki/B,True,86.0
+B4J,https://rosettacode.org/wiki/B4J,False,
+B4X,https://rosettacode.org/wiki/B4X,True,1003.0
+BASIC,https://rosettacode.org/wiki/BASIC,True,272.0
+BASIC256,https://rosettacode.org/wiki/BASIC256,True,1085.0
+BBC BASIC,https://rosettacode.org/wiki/BBC_BASIC,True,1125.0
+BCPL,https://rosettacode.org/wiki/BCPL,True,1135.0
+BLISS,https://rosettacode.org/wiki/BLISS,True,1410.0
+BML,https://rosettacode.org/wiki/BML,True,1444.0
+BQN,https://rosettacode.org/wiki/BQN,True,1520.0
+BaCon,https://rosettacode.org/wiki/BaCon,False,
+Babel,https://rosettacode.org/wiki/Babel,True,1012.0
+BabyCobol,https://rosettacode.org/wiki/BabyCobol,False,
+Bait,https://rosettacode.org/wiki/Bait,False,
+Ballerina,https://rosettacode.org/wiki/Ballerina,True,1048.0
+Bas,https://rosettacode.org/wiki/Bas,False,
+Basic09,https://rosettacode.org/wiki/Basic09,True,1094.0
+Batari Basic,https://rosettacode.org/wiki/Batari_Basic,True,1106.0
+Batch File,https://rosettacode.org/wiki/Batch_File,True,1108.0
+Battlestar,https://rosettacode.org/wiki/Battlestar,True,1111.0
+Bc,https://rosettacode.org/wiki/Bc,True,246.0
+Beads,https://rosettacode.org/wiki/Beads,True,1141.0
+Beef,https://rosettacode.org/wiki/Beef,True,1164.0
+Beeswax,https://rosettacode.org/wiki/Beeswax,True,1171.0
+Befunge,https://rosettacode.org/wiki/Befunge,True,1182.0
+Berkeley Logo,https://rosettacode.org/wiki/Berkeley_Logo,False,
+Beta,https://rosettacode.org/wiki/Beta,True,1208.0
+Biferno,https://rosettacode.org/wiki/Biferno,True,1267.0
+Binary Lambda Calculus,https://rosettacode.org/wiki/Binary_Lambda_Calculus,True,1298.0
+Bird,https://rosettacode.org/wiki/Bird,True,1325.0
+Blade,https://rosettacode.org/wiki/Blade,True,1392.0
+Blast,https://rosettacode.org/wiki/Blast,True,1399.0
+BlitzMax,https://rosettacode.org/wiki/BlitzMax,True,1413.0
+BlooP,https://rosettacode.org/wiki/BlooP,True,1423.0
+Blue,https://rosettacode.org/wiki/Blue,True,1430.0
+Blz,https://rosettacode.org/wiki/Blz,True,1442.0
+Boo,https://rosettacode.org/wiki/Boo,True,1466.0
+BootBASIC,https://rosettacode.org/wiki/BootBASIC,False,
+Bori,https://rosettacode.org/wiki/Bori,False,
+Brace,https://rosettacode.org/wiki/Brace,True,5941.0
+Bracmat,https://rosettacode.org/wiki/Bracmat,False,
+Brainf***,https://rosettacode.org/wiki/Brainf***,True,1571.0
+Brat,https://rosettacode.org/wiki/Brat,False,
+Brlcad,https://rosettacode.org/wiki/Brlcad,False,
+Bruijn,https://rosettacode.org/wiki/Bruijn,True,1727.0
+Burlesque,https://rosettacode.org/wiki/Burlesque,True,1777.0
+C,https://rosettacode.org/wiki/C,True,244.0
+C Shell,https://rosettacode.org/wiki/C_Shell,True,1840.0
+C sharp,https://rosettacode.org/wiki/C_sharp,True,1838.0
+C++,https://rosettacode.org/wiki/C++,True,863.0
+C++/CLI,https://rosettacode.org/wiki/C++/CLI,False,
+C0H,https://rosettacode.org/wiki/C0H,False,
+C1R,https://rosettacode.org/wiki/C1R,False,
+C2,https://rosettacode.org/wiki/C2,True,1845.0
+C3,https://rosettacode.org/wiki/C3,True,1847.0
+CB80,https://rosettacode.org/wiki/CB80,False,
+CBASIC,https://rosettacode.org/wiki/CBASIC,True,2036.0
+CFEngine,https://rosettacode.org/wiki/CFEngine,True,2082.0
+CHR,https://rosettacode.org/wiki/CHR,True,2187.0
+CJam,https://rosettacode.org/wiki/CJam,True,2230.0
+CLIPS,https://rosettacode.org/wiki/CLIPS,True,2280.0
+CLU,https://rosettacode.org/wiki/CLU,True,2301.0
+CMake,https://rosettacode.org/wiki/CMake,True,2310.0
+COBOL,https://rosettacode.org/wiki/COBOL,True,2324.0
+Caché ObjectScript,https://rosettacode.org/wiki/Caché_ObjectScript,True,1858.0
+CafeOBJ,https://rosettacode.org/wiki/CafeOBJ,True,1867.0
+Calcscript,https://rosettacode.org/wiki/Calcscript,True,1894.0
+Caml,https://rosettacode.org/wiki/Caml,True,1902.0
+Casio BASIC,https://rosettacode.org/wiki/Casio_BASIC,True,1952.0
+Cat,https://rosettacode.org/wiki/Cat,True,1958.0
+Cduce,https://rosettacode.org/wiki/Cduce,False,
+Cecil,https://rosettacode.org/wiki/Cecil,True,2056.0
+Ceylon,https://rosettacode.org/wiki/Ceylon,True,2080.0
+Chapel,https://rosettacode.org/wiki/Chapel,True,2112.0
+Chef,https://rosettacode.org/wiki/Chef,True,1488.0
+Cherrycake,https://rosettacode.org/wiki/Cherrycake,False,
+Chipmunk Basic,https://rosettacode.org/wiki/Chipmunk_Basic,True,2176.0
+ChucK,https://rosettacode.org/wiki/ChucK,True,1697.0
+Cilk,https://rosettacode.org/wiki/Cilk,True,2204.0
+Cilk++,https://rosettacode.org/wiki/Cilk++,False,
+Cind,https://rosettacode.org/wiki/Cind,False,
+Clarion,https://rosettacode.org/wiki/Clarion,True,2243.0
+Clay,https://rosettacode.org/wiki/Clay,True,2256.0
+Clean,https://rosettacode.org/wiki/Clean,True,2260.0
+Clio,https://rosettacode.org/wiki/Clio,False,
+Clipper,https://rosettacode.org/wiki/Clipper,True,2278.0
+Clipper/XBase++,https://rosettacode.org/wiki/Clipper/XBase++,False,
+Clojure,https://rosettacode.org/wiki/Clojure,True,2290.0
+Cobra,https://rosettacode.org/wiki/Cobra,True,2328.0
+Coco,https://rosettacode.org/wiki/Coco,True,2331.0
+Coconut,https://rosettacode.org/wiki/Coconut,True,2335.0
+CoffeeScript,https://rosettacode.org/wiki/CoffeeScript,True,2369.0
+ColdFusion,https://rosettacode.org/wiki/ColdFusion,True,2384.0
+Comal,https://rosettacode.org/wiki/Comal,True,2397.0
+Comefrom0x10,https://rosettacode.org/wiki/Comefrom0x10,True,2405.0
+Commodore BASIC,https://rosettacode.org/wiki/Commodore_BASIC,True,2412.0
+Common Lisp,https://rosettacode.org/wiki/Common_Lisp,True,2414.0
+Component Pascal,https://rosettacode.org/wiki/Component_Pascal,True,2432.0
+Computer/zero Assembly,https://rosettacode.org/wiki/Computer/zero_Assembly,False,
+ContextFree,https://rosettacode.org/wiki/ContextFree,False,
+Convex,https://rosettacode.org/wiki/Convex,False,
+Corescript,https://rosettacode.org/wiki/Corescript,True,2541.0
+Cowgol,https://rosettacode.org/wiki/Cowgol,False,
+Crack,https://rosettacode.org/wiki/Crack,True,2590.0
+Craft Basic,https://rosettacode.org/wiki/Craft_Basic,False,
+Creative Basic,https://rosettacode.org/wiki/Creative_Basic,True,2603.0
+Crystal,https://rosettacode.org/wiki/Crystal,True,2624.0
+Cubescript,https://rosettacode.org/wiki/Cubescript,False,
+Curry,https://rosettacode.org/wiki/Curry,True,2686.0
+Curto,https://rosettacode.org/wiki/Curto,False,
+D,https://rosettacode.org/wiki/D,True,54.0
+DBL,https://rosettacode.org/wiki/DBL,False,
+DCL,https://rosettacode.org/wiki/DCL,False,
+DDNC,https://rosettacode.org/wiki/DDNC,False,
+DIBOL-11,https://rosettacode.org/wiki/DIBOL-11,False,
+DIV Games Studio,https://rosettacode.org/wiki/DIV_Games_Studio,False,
+DM,https://rosettacode.org/wiki/DM,True,3049.0
+DMS,https://rosettacode.org/wiki/DMS,False,
+DUP,https://rosettacode.org/wiki/DUP,True,3179.0
+DWScript,https://rosettacode.org/wiki/DWScript,True,3152.0
+Dafny,https://rosettacode.org/wiki/Dafny,True,2737.0
+Dao,https://rosettacode.org/wiki/Dao,False,
+Dart,https://rosettacode.org/wiki/Dart,True,2766.0
+DataWeave,https://rosettacode.org/wiki/DataWeave,True,2802.0
+Datalog,https://rosettacode.org/wiki/Datalog,True,368.0
+Dc,https://rosettacode.org/wiki/Dc,True,8.0
+Delphi,https://rosettacode.org/wiki/Delphi,True,2348.0
+Deluge,https://rosettacode.org/wiki/Deluge,False,
+DeviousYarn,https://rosettacode.org/wiki/DeviousYarn,False,
+Diego,https://rosettacode.org/wiki/Diego,False,
+Diesel,https://rosettacode.org/wiki/Diesel,False,
+Dodo0,https://rosettacode.org/wiki/Dodo0,False,
+Draco,https://rosettacode.org/wiki/Draco,True,3128.0
+Dragon,https://rosettacode.org/wiki/Dragon,True,3132.0
+DreamBerd,https://rosettacode.org/wiki/DreamBerd,False,
+Dt,https://rosettacode.org/wiki/Dt,False,
+DuckDB,https://rosettacode.org/wiki/DuckDB,False,
+Dyalect,https://rosettacode.org/wiki/Dyalect,False,
+Dylan,https://rosettacode.org/wiki/Dylan,True,3189.0
+Dylan.NET,https://rosettacode.org/wiki/Dylan.NET,False,
+Déjà Vu,https://rosettacode.org/wiki/Déjà_Vu,True,3043.0
+E,https://rosettacode.org/wiki/E,True,255.0
+EC,https://rosettacode.org/wiki/EC,True,3236.0
+ECL,https://rosettacode.org/wiki/ECL,True,3243.0
+EDSAC order code,https://rosettacode.org/wiki/EDSAC_order_code,False,
+EGL,https://rosettacode.org/wiki/EGL,True,3292.0
+ELLA,https://rosettacode.org/wiki/ELLA,False,
+EMal,https://rosettacode.org/wiki/EMal,False,
+ERRE,https://rosettacode.org/wiki/ERRE,False,
+ESQL,https://rosettacode.org/wiki/ESQL,False,
+EasyLang,https://rosettacode.org/wiki/EasyLang,False,
+EchoLisp,https://rosettacode.org/wiki/EchoLisp,False,
+Ecstasy,https://rosettacode.org/wiki/Ecstasy,False,
+Ed,https://rosettacode.org/wiki/Ed,True,3257.0
+Eero,https://rosettacode.org/wiki/Eero,False,
+Efene,https://rosettacode.org/wiki/Efene,False,
+Egel,https://rosettacode.org/wiki/Egel,True,3290.0
+Egison,https://rosettacode.org/wiki/Egison,True,3291.0
+EhBASIC,https://rosettacode.org/wiki/EhBASIC,True,4586.0
+Eiffel,https://rosettacode.org/wiki/Eiffel,True,3299.0
+Ela,https://rosettacode.org/wiki/Ela,False,
+Elan,https://rosettacode.org/wiki/Elan,True,3307.0
+ElastiC,https://rosettacode.org/wiki/ElastiC,True,3310.0
+Elena,https://rosettacode.org/wiki/Elena,True,3320.0
+Elisa,https://rosettacode.org/wiki/Elisa,False,
+Elixir,https://rosettacode.org/wiki/Elixir,True,3329.0
+Elm,https://rosettacode.org/wiki/Elm,True,3336.0
+Emacs Lisp,https://rosettacode.org/wiki/Emacs_Lisp,True,3347.0
+Emojicode,https://rosettacode.org/wiki/Emojicode,True,3367.0
+Enguage,https://rosettacode.org/wiki/Enguage,True,5960.0
+Epigram,https://rosettacode.org/wiki/Epigram,True,3427.0
+Epoxy,https://rosettacode.org/wiki/Epoxy,False,
+Erlang,https://rosettacode.org/wiki/Erlang,True,3446.0
+Es,https://rosettacode.org/wiki/Es,True,3455.0
+Euler,https://rosettacode.org/wiki/Euler,True,3515.0
+Euphoria,https://rosettacode.org/wiki/Euphoria,True,3520.0
+Evaldraw,https://rosettacode.org/wiki/Evaldraw,False,
+Excel,https://rosettacode.org/wiki/Excel,True,3549.0
+Explore,https://rosettacode.org/wiki/Explore,True,3579.0
+Extended BrainF***,https://rosettacode.org/wiki/Extended_BrainF***,False,
+Extended Color BASIC,https://rosettacode.org/wiki/Extended_Color_BASIC,False,
+Ezhil,https://rosettacode.org/wiki/Ezhil,True,3602.0
+F,https://rosettacode.org/wiki/F,True,309.0
+F Sharp,https://rosettacode.org/wiki/F_Sharp,True,3611.0
+FALSE,https://rosettacode.org/wiki/FALSE,True,0.0
+FAUST,https://rosettacode.org/wiki/FAUST,True,3662.0
+FBSL,https://rosettacode.org/wiki/FBSL,False,
+FLORA-2,https://rosettacode.org/wiki/FLORA-2,False,
+FOCAL,https://rosettacode.org/wiki/FOCAL,True,3839.0
+FP,https://rosettacode.org/wiki/FP,True,3935.0
+FPI,https://rosettacode.org/wiki/FPI,False,
+FRISC Assembly,https://rosettacode.org/wiki/FRISC_Assembly,False,
+FTCBASIC,https://rosettacode.org/wiki/FTCBASIC,False,
+FUZE BASIC,https://rosettacode.org/wiki/FUZE_BASIC,False,
+Factor,https://rosettacode.org/wiki/Factor,True,3622.0
+Falcon,https://rosettacode.org/wiki/Falcon,True,3633.0
+Fan,https://rosettacode.org/wiki/Fan,False,
+Fancy,https://rosettacode.org/wiki/Fancy,True,3639.0
+Fantom,https://rosettacode.org/wiki/Fantom,True,3642.0
+Fe,https://rosettacode.org/wiki/Fe,True,3671.0
+FeatureC++,https://rosettacode.org/wiki/FeatureC++,False,
+Felix,https://rosettacode.org/wiki/Felix,True,3678.0
+Fennel,https://rosettacode.org/wiki/Fennel,True,3682.0
+Ferite,https://rosettacode.org/wiki/Ferite,True,3683.0
+Fermat,https://rosettacode.org/wiki/Fermat,False,
+Fexl,https://rosettacode.org/wiki/Fexl,False,
+Fhidwfe,https://rosettacode.org/wiki/Fhidwfe,False,
+Fish,https://rosettacode.org/wiki/Fish,True,486.0
+Florid,https://rosettacode.org/wiki/Florid,False,
+FormulaOne,https://rosettacode.org/wiki/FormulaOne,False,
+Forth,https://rosettacode.org/wiki/Forth,True,3898.0
+Fortran,https://rosettacode.org/wiki/Fortran,True,2059.0
+Fortress,https://rosettacode.org/wiki/Fortress,True,3915.0
+Free Pascal,https://rosettacode.org/wiki/Free_Pascal,True,3958.0
+FreeBASIC,https://rosettacode.org/wiki/FreeBASIC,True,3959.0
+FreeMat,https://rosettacode.org/wiki/FreeMat,False,
+Frege,https://rosettacode.org/wiki/Frege,True,3965.0
+Friendly interactive shell,https://rosettacode.org/wiki/Friendly_interactive_shell,True,3968.0
+Frink,https://rosettacode.org/wiki/Frink,True,3971.0
+FunL,https://rosettacode.org/wiki/FunL,True,4042.0
+FuncSug,https://rosettacode.org/wiki/FuncSug,False,
+Furor,https://rosettacode.org/wiki/Furor,False,
+FurryScript,https://rosettacode.org/wiki/FurryScript,False,
+Futhark,https://rosettacode.org/wiki/Futhark,True,4050.0
+FutureBasic,https://rosettacode.org/wiki/FutureBasic,True,4052.0
+Fōrmulæ,https://rosettacode.org/wiki/Fōrmulæ,False,
+G-fu,https://rosettacode.org/wiki/G-fu,True,4072.0
+GAP,https://rosettacode.org/wiki/GAP,True,4098.0
+GB BASIC,https://rosettacode.org/wiki/GB_BASIC,False,
+GDScript,https://rosettacode.org/wiki/GDScript,True,4126.0
+GEORGE,https://rosettacode.org/wiki/GEORGE,True,4193.0
+GFA Basic,https://rosettacode.org/wiki/GFA_Basic,True,4207.0
+GLBasic,https://rosettacode.org/wiki/GLBasic,True,4243.0
+GLSL,https://rosettacode.org/wiki/GLSL,True,4259.0
+GML,https://rosettacode.org/wiki/GML,True,4270.0
+GUISS,https://rosettacode.org/wiki/GUISS,False,
+GW-BASIC,https://rosettacode.org/wiki/GW-BASIC,True,4470.0
+Gambas,https://rosettacode.org/wiki/Gambas,True,4083.0
+Gastona,https://rosettacode.org/wiki/Gastona,False,
+Gecho,https://rosettacode.org/wiki/Gecho,True,4131.0
+Gema,https://rosettacode.org/wiki/Gema,True,4141.0
+Genie,https://rosettacode.org/wiki/Genie,True,4167.0
+Gentee,https://rosettacode.org/wiki/Gentee,True,4173.0
+Genyris,https://rosettacode.org/wiki/Genyris,False,
+Gerbil,https://rosettacode.org/wiki/Gerbil,True,4198.0
+Glagol,https://rosettacode.org/wiki/Glagol,False,
+Gleam,https://rosettacode.org/wiki/Gleam,True,4244.0
+Glee,https://rosettacode.org/wiki/Glee,False,
+Global Script,https://rosettacode.org/wiki/Global_Script,False,
+GlovePIE,https://rosettacode.org/wiki/GlovePIE,False,
+Gnuplot,https://rosettacode.org/wiki/Gnuplot,True,4281.0
+Go,https://rosettacode.org/wiki/Go,True,3738.0
+Go!,https://rosettacode.org/wiki/Go!,True,3738.0
+Goaldi,https://rosettacode.org/wiki/Goaldi,False,
+Goboscript,https://rosettacode.org/wiki/Goboscript,False,
+Golfscript,https://rosettacode.org/wiki/Golfscript,True,4314.0
+Golo,https://rosettacode.org/wiki/Golo,True,4319.0
+Goo,https://rosettacode.org/wiki/Goo,False,
+Gosu,https://rosettacode.org/wiki/Gosu,True,4339.0
+Grain,https://rosettacode.org/wiki/Grain,True,4369.0
+Gri,https://rosettacode.org/wiki/Gri,False,
+Groovy,https://rosettacode.org/wiki/Groovy,True,702.0
+Guile,https://rosettacode.org/wiki/Guile,True,4278.0
+Guish,https://rosettacode.org/wiki/Guish,False,
+HLA,https://rosettacode.org/wiki/HLA,True,4707.0
+HPPPL,https://rosettacode.org/wiki/HPPPL,False,
+HQ9+,https://rosettacode.org/wiki/HQ9+,True,3349.0
+Hack,https://rosettacode.org/wiki/Hack,True,4487.0
+Halon,https://rosettacode.org/wiki/Halon,False,
+Harbour,https://rosettacode.org/wiki/Harbour,True,4545.0
+Hare,https://rosettacode.org/wiki/Hare,True,4551.0
+Haskell,https://rosettacode.org/wiki/Haskell,True,1846.0
+Haxe,https://rosettacode.org/wiki/Haxe,True,4581.0
+Heron,https://rosettacode.org/wiki/Heron,True,4647.0
+Hexiscript,https://rosettacode.org/wiki/Hexiscript,False,
+HicEst,https://rosettacode.org/wiki/HicEst,False,
+HolyC,https://rosettacode.org/wiki/HolyC,True,4725.0
+Hoon,https://rosettacode.org/wiki/Hoon,True,4734.0
+Hope,https://rosettacode.org/wiki/Hope,True,4738.0
+Hopper,https://rosettacode.org/wiki/Hopper,True,11421.0
+Huginn,https://rosettacode.org/wiki/Huginn,True,4811.0
+Hy,https://rosettacode.org/wiki/Hy,True,4835.0
+HyperTalk,https://rosettacode.org/wiki/HyperTalk,True,4858.0
+I,https://rosettacode.org/wiki/I,True,230.0
+IDL,https://rosettacode.org/wiki/IDL,True,965.0
+IPL Loader Config,https://rosettacode.org/wiki/IPL_Loader_Config,False,
+IS-BASIC,https://rosettacode.org/wiki/IS-BASIC,True,9151.0
+IWBASIC,https://rosettacode.org/wiki/IWBASIC,False,
+Icon,https://rosettacode.org/wiki/Icon,True,4927.0
+Idris,https://rosettacode.org/wiki/Idris,True,5135.0
+Imp77,https://rosettacode.org/wiki/Imp77,False,
+Inform 6,https://rosettacode.org/wiki/Inform_6,False,
+Inform 7,https://rosettacode.org/wiki/Inform_7,True,5252.0
+Informix 4GL,https://rosettacode.org/wiki/Informix_4GL,False,
+Inko,https://rosettacode.org/wiki/Inko,True,5271.0
+Insitux,https://rosettacode.org/wiki/Insitux,True,5287.0
+Integer BASIC,https://rosettacode.org/wiki/Integer_BASIC,True,5299.0
+Intercal,https://rosettacode.org/wiki/Intercal,True,1027.0
+Io,https://rosettacode.org/wiki/Io,True,2002.0
+Ioke,https://rosettacode.org/wiki/Ioke,True,5347.0
+Iptscrae,https://rosettacode.org/wiki/Iptscrae,True,5364.0
+Isabelle,https://rosettacode.org/wiki/Isabelle,True,5381.0
+J,https://rosettacode.org/wiki/J,True,5142.0
+JAMES II/Rule-based Cellular Automata,https://rosettacode.org/wiki/JAMES_II/Rule-based_Cellular_Automata,False,
+JCL,https://rosettacode.org/wiki/JCL,True,5492.0
+JOVIAL,https://rosettacode.org/wiki/JOVIAL,True,5556.0
+JSE,https://rosettacode.org/wiki/JSE,False,
+JScript.NET,https://rosettacode.org/wiki/JScript.NET,True,5570.0
+Jabaco,https://rosettacode.org/wiki/Jabaco,False,
+Jack,https://rosettacode.org/wiki/Jack,False,
+Jacquard Loom,https://rosettacode.org/wiki/Jacquard_Loom,False,
+Jactl,https://rosettacode.org/wiki/Jactl,False,
+Jakt,https://rosettacode.org/wiki/Jakt,True,5442.0
+Janet,https://rosettacode.org/wiki/Janet,True,5446.0
+Java,https://rosettacode.org/wiki/Java,True,5430.0
+JavaFX Script,https://rosettacode.org/wiki/JavaFX_Script,True,5477.0
+JavaScript,https://rosettacode.org/wiki/JavaScript,True,1205.0
+Jinja,https://rosettacode.org/wiki/Jinja,True,5521.0
+JoCaml,https://rosettacode.org/wiki/JoCaml,False,
+Joy,https://rosettacode.org/wiki/Joy,True,5557.0
+Jq,https://rosettacode.org/wiki/Jq,True,5564.0
+Jsish,https://rosettacode.org/wiki/Jsish,False,
+JudoScript,https://rosettacode.org/wiki/JudoScript,True,5596.0
+Julia,https://rosettacode.org/wiki/Julia,True,5600.0
+K,https://rosettacode.org/wiki/K,True,441.0
+KAP,https://rosettacode.org/wiki/KAP,False,
+KL1,https://rosettacode.org/wiki/KL1,True,5741.0
+KQL,https://rosettacode.org/wiki/KQL,False,
+Kabap,https://rosettacode.org/wiki/Kabap,False,
+Kamailio Script,https://rosettacode.org/wiki/Kamailio_Script,False,
+Kantalo,https://rosettacode.org/wiki/Kantalo,False,
+Kaya,https://rosettacode.org/wiki/Kaya,False,
+Keg,https://rosettacode.org/wiki/Keg,True,5678.0
+KeyList Databasing,https://rosettacode.org/wiki/KeyList_Databasing,False,
+Kite,https://rosettacode.org/wiki/Kite,False,
+Kitten,https://rosettacode.org/wiki/Kitten,True,5731.0
+Klingphix,https://rosettacode.org/wiki/Klingphix,False,
+Klong,https://rosettacode.org/wiki/Klong,True,5751.0
+Koka,https://rosettacode.org/wiki/Koka,True,5767.0
+Komodo,https://rosettacode.org/wiki/Komodo,True,5770.0
+KonsolScript,https://rosettacode.org/wiki/KonsolScript,True,5775.0
+Kotlin,https://rosettacode.org/wiki/Kotlin,True,4368.0
+Ksh,https://rosettacode.org/wiki/Ksh,True,1080.0
+L++,https://rosettacode.org/wiki/L++,False,
+L.in.oleum,https://rosettacode.org/wiki/L.in.oleum,False,
+LAST,https://rosettacode.org/wiki/LAST,True,5895.0
+LC2200 Assembly,https://rosettacode.org/wiki/LC2200_Assembly,False,
+LC3 Assembly,https://rosettacode.org/wiki/LC3_Assembly,False,
+LDPL,https://rosettacode.org/wiki/LDPL,True,5929.0
+LFE,https://rosettacode.org/wiki/LFE,True,5988.0
+LIL,https://rosettacode.org/wiki/LIL,True,6020.0
+LLP,https://rosettacode.org/wiki/LLP,False,
+LLVM,https://rosettacode.org/wiki/LLVM,True,6142.0
+LOLCODE,https://rosettacode.org/wiki/LOLCODE,True,6197.0
+LSE,https://rosettacode.org/wiki/LSE,True,6243.0
+LSE64,https://rosettacode.org/wiki/LSE64,False,
+LSL,https://rosettacode.org/wiki/LSL,True,6246.0
+LSTS,https://rosettacode.org/wiki/LSTS,False,
+LaTeX,https://rosettacode.org/wiki/LaTeX,True,5897.0
+LabVIEW,https://rosettacode.org/wiki/LabVIEW,True,5824.0
+Labyrinth,https://rosettacode.org/wiki/Labyrinth,True,5825.0
+Lambda Prolog,https://rosettacode.org/wiki/Lambda_Prolog,True,5844.0
+Lambdatalk,https://rosettacode.org/wiki/Lambdatalk,False,
+Lang,https://rosettacode.org/wiki/Lang,True,310.0
+Lang5,https://rosettacode.org/wiki/Lang5,False,
+Languages by Feature,https://rosettacode.org/wiki/Languages_by_Feature,False,
+Langur,https://rosettacode.org/wiki/Langur,False,
+Lasso,https://rosettacode.org/wiki/Lasso,True,5893.0
+Latitude,https://rosettacode.org/wiki/Latitude,False,
+Lean,https://rosettacode.org/wiki/Lean,True,5932.0
+Leon,https://rosettacode.org/wiki/Leon,False,
+Lhogho,https://rosettacode.org/wiki/Lhogho,False,
+Liberty BASIC,https://rosettacode.org/wiki/Liberty_BASIC,True,5998.0
+LibreOffice Basic,https://rosettacode.org/wiki/LibreOffice_Basic,False,
+Lily,https://rosettacode.org/wiki/Lily,True,6023.0
+Limbo,https://rosettacode.org/wiki/Limbo,True,6025.0
+Lingo,https://rosettacode.org/wiki/Lingo,True,6048.0
+Lisaac,https://rosettacode.org/wiki/Lisaac,True,6074.0
+Lisp,https://rosettacode.org/wiki/Lisp,True,149.0
+Little,https://rosettacode.org/wiki/Little,True,6118.0
+Little Man Computer,https://rosettacode.org/wiki/Little_Man_Computer,False,
+LiveCode,https://rosettacode.org/wiki/LiveCode,True,6124.0
+LiveScript,https://rosettacode.org/wiki/LiveScript,True,6127.0
+Lobster,https://rosettacode.org/wiki/Lobster,True,6157.0
+Locomotive Basic,https://rosettacode.org/wiki/Locomotive_Basic,True,6161.0
+Loglan82,https://rosettacode.org/wiki/Loglan82,False,
+Logo,https://rosettacode.org/wiki/Logo,True,158.0
+Logtalk,https://rosettacode.org/wiki/Logtalk,True,6192.0
+Lolli,https://rosettacode.org/wiki/Lolli,False,
+Lotus 123 Macro Scripting,https://rosettacode.org/wiki/Lotus_123_Macro_Scripting,False,
+LotusScript,https://rosettacode.org/wiki/LotusScript,True,6228.0
+Lout,https://rosettacode.org/wiki/Lout,False,
+Lua,https://rosettacode.org/wiki/Lua,True,6251.0
+Lucid,https://rosettacode.org/wiki/Lucid,True,6262.0
+Luck,https://rosettacode.org/wiki/Luck,False,
+Luna,https://rosettacode.org/wiki/Luna,True,6273.0
+Lush,https://rosettacode.org/wiki/Lush,True,6276.0
+Lychen,https://rosettacode.org/wiki/Lychen,False,
+Lygon,https://rosettacode.org/wiki/Lygon,True,6283.0
+M2000 Interpreter,https://rosettacode.org/wiki/M2000_Interpreter,False,
+M4,https://rosettacode.org/wiki/M4,True,6304.0
+M680x0,https://rosettacode.org/wiki/M680x0,False,
+MACRO-11,https://rosettacode.org/wiki/MACRO-11,True,6323.0
+MAD,https://rosettacode.org/wiki/MAD,True,6329.0
+MANOOL,https://rosettacode.org/wiki/MANOOL,True,6388.0
+MAPPER,https://rosettacode.org/wiki/MAPPER,True,6400.0
+MATLAB,https://rosettacode.org/wiki/MATLAB,True,6484.0
+MAXScript,https://rosettacode.org/wiki/MAXScript,True,6504.0
+MBS,https://rosettacode.org/wiki/MBS,False,
+MDL,https://rosettacode.org/wiki/MDL,True,6532.0
+ME10 macro,https://rosettacode.org/wiki/ME10_macro,False,
+MEL,https://rosettacode.org/wiki/MEL,True,6550.0
+MGS,https://rosettacode.org/wiki/MGS,False,
+MINIL,https://rosettacode.org/wiki/MINIL,True,6720.0
+MIPS Assembly,https://rosettacode.org/wiki/MIPS_Assembly,False,
+MIRC Scripting Language,https://rosettacode.org/wiki/MIRC_Scripting_Language,True,6769.0
+ML,https://rosettacode.org/wiki/ML,True,2466.0
+ML/I,https://rosettacode.org/wiki/ML/I,False,
+MLite,https://rosettacode.org/wiki/MLite,True,6797.0
+MMIX,https://rosettacode.org/wiki/MMIX,True,6803.0
+MOO,https://rosettacode.org/wiki/MOO,True,6874.0
+MPIF90,https://rosettacode.org/wiki/MPIF90,False,
+MSX Basic,https://rosettacode.org/wiki/MSX_Basic,True,6943.0
+MUF,https://rosettacode.org/wiki/MUF,True,6951.0
+MUMPS,https://rosettacode.org/wiki/MUMPS,True,674.0
+Macsyma,https://rosettacode.org/wiki/Macsyma,True,3068.0
+Make,https://rosettacode.org/wiki/Make,True,6361.0
+Malbolge,https://rosettacode.org/wiki/Malbolge,True,2435.0
+Maple,https://rosettacode.org/wiki/Maple,True,6397.0
+MariaDB,https://rosettacode.org/wiki/MariaDB,True,6414.0
+Mastermind,https://rosettacode.org/wiki/Mastermind,True,6454.0
+MathCortex,https://rosettacode.org/wiki/MathCortex,False,
+Mathcad,https://rosettacode.org/wiki/Mathcad,True,6464.0
+Mathematica,https://rosettacode.org/wiki/Mathematica,True,6465.0
+Mathprog,https://rosettacode.org/wiki/Mathprog,False,
+Maude,https://rosettacode.org/wiki/Maude,True,6493.0
+Maxima,https://rosettacode.org/wiki/Maxima,True,6502.0
+MelonBasic,https://rosettacode.org/wiki/MelonBasic,False,
+Mercury,https://rosettacode.org/wiki/Mercury,True,6575.0
+Metafont,https://rosettacode.org/wiki/Metafont,True,6604.0
+Metapost,https://rosettacode.org/wiki/Metapost,True,6617.0
+Mia,https://rosettacode.org/wiki/Mia,False,
+Microsoft Small Basic,https://rosettacode.org/wiki/Microsoft_Small_Basic,True,6663.0
+Min,https://rosettacode.org/wiki/Min,True,6686.0
+MiniScript,https://rosettacode.org/wiki/MiniScript,False,
+MiniZinc,https://rosettacode.org/wiki/MiniZinc,True,6744.0
+Minimal BASIC,https://rosettacode.org/wiki/Minimal_BASIC,False,
+Mirah,https://rosettacode.org/wiki/Mirah,True,6762.0
+Miranda,https://rosettacode.org/wiki/Miranda,True,6764.0
+Mirelle,https://rosettacode.org/wiki/Mirelle,False,
+Mn,https://rosettacode.org/wiki/Mn,True,6809.0
+Modula-2,https://rosettacode.org/wiki/Modula-2,True,6835.0
+Modula-3,https://rosettacode.org/wiki/Modula-3,True,6837.0
+Mojo,https://rosettacode.org/wiki/Mojo,True,0.0
+Mond,https://rosettacode.org/wiki/Mond,True,6860.0
+Monicelli,https://rosettacode.org/wiki/Monicelli,False,
+Monkey,https://rosettacode.org/wiki/Monkey,True,6864.0
+Monte,https://rosettacode.org/wiki/Monte,True,6873.0
+MontiLang,https://rosettacode.org/wiki/MontiLang,False,
+MoonRock,https://rosettacode.org/wiki/MoonRock,True,6878.0
+MoonScript,https://rosettacode.org/wiki/MoonScript,True,6879.0
+Morfa,https://rosettacode.org/wiki/Morfa,True,6886.0
+Mosaic,https://rosettacode.org/wiki/Mosaic,True,6896.0
+MySQL,https://rosettacode.org/wiki/MySQL,True,4327.0
+Myrddin,https://rosettacode.org/wiki/Myrddin,True,7016.0
+MyrtleScript,https://rosettacode.org/wiki/MyrtleScript,False,
+Mython,https://rosettacode.org/wiki/Mython,False,
+Mythryl,https://rosettacode.org/wiki/Mythryl,True,7025.0
+N/t/roff,https://rosettacode.org/wiki/N/t/roff,False,
+NASL,https://rosettacode.org/wiki/NASL,True,7061.0
+NATURAL,https://rosettacode.org/wiki/NATURAL,True,7067.0
+NESL,https://rosettacode.org/wiki/NESL,True,7110.0
+NGS,https://rosettacode.org/wiki/NGS,True,7171.0
+NLP++,https://rosettacode.org/wiki/NLP++,False,
+NOWUT,https://rosettacode.org/wiki/NOWUT,False,
+NQP,https://rosettacode.org/wiki/NQP,False,
+NS-HUBASIC,https://rosettacode.org/wiki/NS-HUBASIC,False,
+NSIS,https://rosettacode.org/wiki/NSIS,True,7332.0
+Nanoquery,https://rosettacode.org/wiki/Nanoquery,False,
+Nascom BASIC,https://rosettacode.org/wiki/Nascom_BASIC,False,
+Neat,https://rosettacode.org/wiki/Neat,True,7085.0
+Neko,https://rosettacode.org/wiki/Neko,True,7098.0
+Nemerle,https://rosettacode.org/wiki/Nemerle,True,7103.0
+NetLogo,https://rosettacode.org/wiki/NetLogo,True,7128.0
+NetRexx,https://rosettacode.org/wiki/NetRexx,True,7129.0
+Never,https://rosettacode.org/wiki/Never,True,7139.0
+NewLISP,https://rosettacode.org/wiki/NewLISP,True,7149.0
+NewtonScript,https://rosettacode.org/wiki/NewtonScript,True,7157.0
+Nial,https://rosettacode.org/wiki/Nial,True,7177.0
+Nice,https://rosettacode.org/wiki/Nice,True,7180.0
+Nickle,https://rosettacode.org/wiki/Nickle,True,7182.0
+Night,https://rosettacode.org/wiki/Night,True,7183.0
+Nim,https://rosettacode.org/wiki/Nim,True,7189.0
+Nit,https://rosettacode.org/wiki/Nit,True,7203.0
+Niue,https://rosettacode.org/wiki/Niue,False,
+Nix,https://rosettacode.org/wiki/Nix,True,7204.0
+Nom,https://rosettacode.org/wiki/Nom,False,
+Nu,https://rosettacode.org/wiki/Nu,True,7338.0
+Nutt,https://rosettacode.org/wiki/Nutt,False,
+Nyquist,https://rosettacode.org/wiki/Nyquist,True,7407.0
+OASYS,https://rosettacode.org/wiki/OASYS,False,
+OASYS Assembler,https://rosettacode.org/wiki/OASYS_Assembler,False,
+OCaml,https://rosettacode.org/wiki/OCaml,True,7483.0
+OOC,https://rosettacode.org/wiki/OOC,True,7589.0
+OOCalc,https://rosettacode.org/wiki/OOCalc,False,
+OPL,https://rosettacode.org/wiki/OPL,True,7646.0
+Oberon-07,https://rosettacode.org/wiki/Oberon-07,False,
+Oberon-2,https://rosettacode.org/wiki/Oberon-2,True,7429.0
+Objeck,https://rosettacode.org/wiki/Objeck,False,
+Object Pascal,https://rosettacode.org/wiki/Object_Pascal,True,7448.0
+Object Pascal Implementations,https://rosettacode.org/wiki/Object_Pascal_Implementations,False,
+ObjectIcon,https://rosettacode.org/wiki/ObjectIcon,False,
+Objective-C,https://rosettacode.org/wiki/Objective-C,True,7456.0
+Occam,https://rosettacode.org/wiki/Occam,True,7484.0
+Octave,https://rosettacode.org/wiki/Octave,True,4279.0
+Odin,https://rosettacode.org/wiki/Odin,True,7440.0
+Oforth,https://rosettacode.org/wiki/Oforth,True,7512.0
+Ol,https://rosettacode.org/wiki/Ol,False,
+Omega,https://rosettacode.org/wiki/Omega,True,7551.0
+OmniMark,https://rosettacode.org/wiki/OmniMark,True,7563.0
+Onyx,https://rosettacode.org/wiki/Onyx,True,7587.0
+Onyx (wasm),https://rosettacode.org/wiki/Onyx_(wasm),False,
+OoRexx,https://rosettacode.org/wiki/OoRexx,False,
+Opa,https://rosettacode.org/wiki/Opa,True,7607.0
+OpenC++,https://rosettacode.org/wiki/OpenC++,False,
+OpenEdge/Progress,https://rosettacode.org/wiki/OpenEdge/Progress,False,
+OpenLisp,https://rosettacode.org/wiki/OpenLisp,True,7629.0
+Openscad,https://rosettacode.org/wiki/Openscad,True,7634.0
+Order,https://rosettacode.org/wiki/Order,True,7671.0
+Owl Lisp,https://rosettacode.org/wiki/Owl_Lisp,False,
+OxygenBasic,https://rosettacode.org/wiki/OxygenBasic,False,
+Oxygene,https://rosettacode.org/wiki/Oxygene,True,7718.0
+Oz,https://rosettacode.org/wiki/Oz,True,2639.0
+PARI/GP,https://rosettacode.org/wiki/PARI/GP,True,7806.0
+PASM,https://rosettacode.org/wiki/PASM,True,7840.0
+PDP-11 Assembly,https://rosettacode.org/wiki/PDP-11_Assembly,False,
+PHL,https://rosettacode.org/wiki/PHL,True,7946.0
+PHP,https://rosettacode.org/wiki/PHP,True,1185.0
+PILOT,https://rosettacode.org/wiki/PILOT,True,8001.0
+PIR,https://rosettacode.org/wiki/PIR,False,
+PL/0,https://rosettacode.org/wiki/PL/0,True,8032.0
+PL/B,https://rosettacode.org/wiki/PL/B,True,8072.0
+PL/I,https://rosettacode.org/wiki/PL/I,True,8037.0
+PL/I-80,https://rosettacode.org/wiki/PL/I-80,False,
+PL/M,https://rosettacode.org/wiki/PL/M,True,8041.0
+PL/SQL,https://rosettacode.org/wiki/PL/SQL,True,8046.0
+PL/pgSQL,https://rosettacode.org/wiki/PL/pgSQL,True,8092.0
+PLUS,https://rosettacode.org/wiki/PLUS,True,283.0
+PLZ/SYS,https://rosettacode.org/wiki/PLZ/SYS,False,
+POV-Ray,https://rosettacode.org/wiki/POV-Ray,True,8227.0
+PPL,https://rosettacode.org/wiki/PPL,False,
+PROMAL,https://rosettacode.org/wiki/PROMAL,True,8344.0
+PSQL,https://rosettacode.org/wiki/PSQL,False,
+Palo Alto Tiny BASIC,https://rosettacode.org/wiki/Palo_Alto_Tiny_BASIC,False,
+Panda,https://rosettacode.org/wiki/Panda,False,
+Panoramic,https://rosettacode.org/wiki/Panoramic,False,
+ParaCL,https://rosettacode.org/wiki/ParaCL,False,
+Pare,https://rosettacode.org/wiki/Pare,False,
+Pascal,https://rosettacode.org/wiki/Pascal,True,2432.0
+Pascal-P,https://rosettacode.org/wiki/Pascal-P,False,
+PascalABC.NET,https://rosettacode.org/wiki/PascalABC.NET,True,7829.0
+Pebble,https://rosettacode.org/wiki/Pebble,True,7888.0
+Peloton,https://rosettacode.org/wiki/Peloton,False,
+Pentium Assembly,https://rosettacode.org/wiki/Pentium_Assembly,False,
+PeopleCode,https://rosettacode.org/wiki/PeopleCode,True,7903.0
+PepsiScript,https://rosettacode.org/wiki/PepsiScript,False,
+Peri,https://rosettacode.org/wiki/Peri,False,
+Perl,https://rosettacode.org/wiki/Perl,True,5409.0
+Perl 6,https://rosettacode.org/wiki/Perl_6,True,8623.0
+Perl5i,https://rosettacode.org/wiki/Perl5i,False,
+Peylang,https://rosettacode.org/wiki/Peylang,False,
+Phix,https://rosettacode.org/wiki/Phix,False,
+Phixmonti,https://rosettacode.org/wiki/Phixmonti,False,
+Picat,https://rosettacode.org/wiki/Picat,True,7965.0
+Pico-8,https://rosettacode.org/wiki/Pico-8,False,
+PicoLisp,https://rosettacode.org/wiki/PicoLisp,True,7976.0
+Pict,https://rosettacode.org/wiki/Pict,True,7977.0
+Piet,https://rosettacode.org/wiki/Piet,True,7978.0
+Pike,https://rosettacode.org/wiki/Pike,True,7996.0
+Pixilang,https://rosettacode.org/wiki/Pixilang,False,
+Plain English,https://rosettacode.org/wiki/Plain_English,True,8054.0
+PlainTeX,https://rosettacode.org/wiki/PlainTeX,False,
+Plan,https://rosettacode.org/wiki/Plan,False,
+Pluto,https://rosettacode.org/wiki/Pluto,False,
+Pointless,https://rosettacode.org/wiki/Pointless,True,8148.0
+Polyglot:PL/I and PL/M,https://rosettacode.org/wiki/Polyglot:PL/I_and_PL/M,False,
+Pony,https://rosettacode.org/wiki/Pony,True,8178.0
+Pop11,https://rosettacode.org/wiki/Pop11,True,8185.0
+Portugol,https://rosettacode.org/wiki/Portugol,True,4073.0
+PostScript,https://rosettacode.org/wiki/PostScript,True,8222.0
+Potion,https://rosettacode.org/wiki/Potion,True,8226.0
+PowerBASIC,https://rosettacode.org/wiki/PowerBASIC,True,8232.0
+PowerPC Assembly,https://rosettacode.org/wiki/PowerPC_Assembly,False,
+PowerShell,https://rosettacode.org/wiki/PowerShell,True,8240.0
+Powerbuilder,https://rosettacode.org/wiki/Powerbuilder,True,8233.0
+ProDOS,https://rosettacode.org/wiki/ProDOS,True,743.0
+Processing,https://rosettacode.org/wiki/Processing,True,5257.0
+Processing Python mode,https://rosettacode.org/wiki/Processing_Python_mode,False,
+Processing.R,https://rosettacode.org/wiki/Processing.R,False,
+Prog8,https://rosettacode.org/wiki/Prog8,False,
+Programming Language,https://rosettacode.org/wiki/Programming_Language,True,8487.0
+ProgressBASIC,https://rosettacode.org/wiki/ProgressBASIC,False,
+Prolog,https://rosettacode.org/wiki/Prolog,True,758.0
+Pure,https://rosettacode.org/wiki/Pure,True,8412.0
+Pure Data,https://rosettacode.org/wiki/Pure_Data,True,8414.0
+PureBasic,https://rosettacode.org/wiki/PureBasic,True,8416.0
+Purity,https://rosettacode.org/wiki/Purity,False,
+Pyret,https://rosettacode.org/wiki/Pyret,True,8451.0
+Python,https://rosettacode.org/wiki/Python,True,577.0
+Q,https://rosettacode.org/wiki/Q,True,3205.0
+QB64,https://rosettacode.org/wiki/QB64,True,8495.0
+QBasic,https://rosettacode.org/wiki/QBasic,True,8496.0
+QL SuperBASIC,https://rosettacode.org/wiki/QL_SuperBASIC,False,
+Qi,https://rosettacode.org/wiki/Qi,False,
+Qore,https://rosettacode.org/wiki/Qore,True,8517.0
+Quackery,https://rosettacode.org/wiki/Quackery,False,
+QuakeC,https://rosettacode.org/wiki/QuakeC,True,8530.0
+QuickBASIC,https://rosettacode.org/wiki/QuickBASIC,True,8559.0
+Quill,https://rosettacode.org/wiki/Quill,False,
+Quite BASIC,https://rosettacode.org/wiki/Quite_BASIC,False,
+Quorum,https://rosettacode.org/wiki/Quorum,True,8581.0
+R,https://rosettacode.org/wiki/R,True,259.0
+RASEL,https://rosettacode.org/wiki/RASEL,True,8659.0
+RATFOR,https://rosettacode.org/wiki/RATFOR,True,8664.0
+REALbasic,https://rosettacode.org/wiki/REALbasic,True,8711.0
+REXX,https://rosettacode.org/wiki/REXX,True,7451.0
+RISC-V Assembly,https://rosettacode.org/wiki/RISC-V_Assembly,False,
+RLSL,https://rosettacode.org/wiki/RLSL,False,
+RLaB,https://rosettacode.org/wiki/RLaB,True,8912.0
+RPG,https://rosettacode.org/wiki/RPG,True,4906.0
+RPGIV,https://rosettacode.org/wiki/RPGIV,False,
+RPL,https://rosettacode.org/wiki/RPL,True,8648.0
+RPL/2,https://rosettacode.org/wiki/RPL/2,False,
+RTL/2,https://rosettacode.org/wiki/RTL/2,True,9021.0
+RTSL,https://rosettacode.org/wiki/RTSL,False,
+Ra,https://rosettacode.org/wiki/Ra,True,8606.0
+Racket,https://rosettacode.org/wiki/Racket,True,8609.0
+Raku,https://rosettacode.org/wiki/Raku,True,8623.0
+RapidQ,https://rosettacode.org/wiki/RapidQ,True,8649.0
+Rapira,https://rosettacode.org/wiki/Rapira,True,8651.0
+Rascal,https://rosettacode.org/wiki/Rascal,True,8657.0
+Raven,https://rosettacode.org/wiki/Raven,False,
+ReScript,https://rosettacode.org/wiki/ReScript,True,8816.0
+Reason,https://rosettacode.org/wiki/Reason,True,8281.0
+Rebol,https://rosettacode.org/wiki/Rebol,True,8722.0
+Red,https://rosettacode.org/wiki/Red,True,8745.0
+Reduce,https://rosettacode.org/wiki/Reduce,True,8758.0
+Refal,https://rosettacode.org/wiki/Refal,True,8761.0
+Relation,https://rosettacode.org/wiki/Relation,True,8793.0
+Retro,https://rosettacode.org/wiki/Retro,False,
+Rhombus,https://rosettacode.org/wiki/Rhombus,True,8874.0
+Rhope,https://rosettacode.org/wiki/Rhope,False,
+Rhovas,https://rosettacode.org/wiki/Rhovas,False,
+Ring,https://rosettacode.org/wiki/Ring,True,8896.0
+Robotic,https://rosettacode.org/wiki/Robotic,True,8933.0
+Roc,https://rosettacode.org/wiki/Roc,True,8935.0
+Rockstar,https://rosettacode.org/wiki/Rockstar,True,8939.0
+Rocq,https://rosettacode.org/wiki/Rocq,True,2530.0
+Ruby,https://rosettacode.org/wiki/Ruby,True,6762.0
+Rubylog,https://rosettacode.org/wiki/Rubylog,False,
+Run BASIC,https://rosettacode.org/wiki/Run_BASIC,True,9044.0
+Rust,https://rosettacode.org/wiki/Rust,True,9056.0
+S++,https://rosettacode.org/wiki/S++,False,
+S-BASIC,https://rosettacode.org/wiki/S-BASIC,True,9151.0
+S-lang,https://rosettacode.org/wiki/S-lang,True,9071.0
+SAS,https://rosettacode.org/wiki/SAS,True,9125.0
+SASL,https://rosettacode.org/wiki/SASL,True,9129.0
+SETL,https://rosettacode.org/wiki/SETL,True,9336.0
+SIL,https://rosettacode.org/wiki/SIL,True,9441.0
+SIMPOL,https://rosettacode.org/wiki/SIMPOL,False,
+SMEQL,https://rosettacode.org/wiki/SMEQL,False,
+SNOBOL4,https://rosettacode.org/wiki/SNOBOL4,True,9660.0
+SNUSP,https://rosettacode.org/wiki/SNUSP,True,9588.0
+SPAD,https://rosettacode.org/wiki/SPAD,False,
+SPARC Assembly,https://rosettacode.org/wiki/SPARC_Assembly,True,768.0
+SPARK,https://rosettacode.org/wiki/SPARK,True,9749.0
+SPL,https://rosettacode.org/wiki/SPL,True,9792.0
+SPSS,https://rosettacode.org/wiki/SPSS,True,9817.0
+SQL,https://rosettacode.org/wiki/SQL,True,8046.0
+SQL PL,https://rosettacode.org/wiki/SQL_PL,True,9833.0
+SSEM,https://rosettacode.org/wiki/SSEM,False,
+SWI-Prolog,https://rosettacode.org/wiki/SWI-Prolog,True,10134.0
+Sage,https://rosettacode.org/wiki/Sage,True,577.0
+Salmon,https://rosettacode.org/wiki/Salmon,False,
+SapbotVM,https://rosettacode.org/wiki/SapbotVM,False,
+Sass/SCSS,https://rosettacode.org/wiki/Sass/SCSS,False,
+Sather,https://rosettacode.org/wiki/Sather,True,9136.0
+Scala,https://rosettacode.org/wiki/Scala,True,9159.0
+Scheme,https://rosettacode.org/wiki/Scheme,True,1060.0
+Scilab,https://rosettacode.org/wiki/Scilab,True,9189.0
+Scratch,https://rosettacode.org/wiki/Scratch,True,3474.0
+ScratchScript,https://rosettacode.org/wiki/ScratchScript,False,
+Script Basic,https://rosettacode.org/wiki/Script_Basic,True,9219.0
+Script3D,https://rosettacode.org/wiki/Script3D,False,
+ScriptBasic,https://rosettacode.org/wiki/ScriptBasic,True,9219.0
+Sed,https://rosettacode.org/wiki/Sed,True,9255.0
+Seed7,https://rosettacode.org/wiki/Seed7,True,9258.0
+Self,https://rosettacode.org/wiki/Self,True,2015.0
+SenseTalk,https://rosettacode.org/wiki/SenseTalk,True,9306.0
+SequenceL,https://rosettacode.org/wiki/SequenceL,True,9315.0
+Set lang,https://rosettacode.org/wiki/Set_lang,True,9337.0
+Setl4,https://rosettacode.org/wiki/Setl4,False,
+Shale,https://rosettacode.org/wiki/Shale,False,
+SheerPower 4GL,https://rosettacode.org/wiki/SheerPower_4GL,True,9379.0
+Shen,https://rosettacode.org/wiki/Shen,True,9385.0
+Shiny,https://rosettacode.org/wiki/Shiny,False,
+Sidef,https://rosettacode.org/wiki/Sidef,False,
+SimpleCode,https://rosettacode.org/wiki/SimpleCode,False,
+SimpleLang,https://rosettacode.org/wiki/SimpleLang,False,
+Simula,https://rosettacode.org/wiki/Simula,True,9487.0
+Sinclair ZX81 BASIC,https://rosettacode.org/wiki/Sinclair_ZX81_BASIC,False,
+Sing,https://rosettacode.org/wiki/Sing,True,9492.0
+Sisal,https://rosettacode.org/wiki/Sisal,True,9502.0
+Skew,https://rosettacode.org/wiki/Skew,True,9516.0
+SkookumScript,https://rosettacode.org/wiki/SkookumScript,True,9527.0
+Slate,https://rosettacode.org/wiki/Slate,False,
+Slope,https://rosettacode.org/wiki/Slope,True,9575.0
+Smalltalk,https://rosettacode.org/wiki/Smalltalk,True,3026.0
+Smart BASIC,https://rosettacode.org/wiki/Smart_BASIC,False,
+SmileBASIC,https://rosettacode.org/wiki/SmileBASIC,False,
+Snobol,https://rosettacode.org/wiki/Snobol,True,9076.0
+Soar,https://rosettacode.org/wiki/Soar,True,9677.0
+Soda,https://rosettacode.org/wiki/Soda,False,
+SoneKing Assembly,https://rosettacode.org/wiki/SoneKing_Assembly,False,
+SparForte,https://rosettacode.org/wiki/SparForte,False,
+Sparkling,https://rosettacode.org/wiki/Sparkling,False,
+Spin,https://rosettacode.org/wiki/Spin,True,8350.0
+Squirrel,https://rosettacode.org/wiki/Squirrel,True,9848.0
+Standard ML,https://rosettacode.org/wiki/Standard_ML,True,9913.0
+Star,https://rosettacode.org/wiki/Star,True,2299.0
+Stata,https://rosettacode.org/wiki/Stata,True,9931.0
+Stax,https://rosettacode.org/wiki/Stax,True,9942.0
+StreamIt,https://rosettacode.org/wiki/StreamIt,True,9983.0
+Stringle,https://rosettacode.org/wiki/Stringle,True,9999.0
+Suneido,https://rosettacode.org/wiki/Suneido,True,10082.0
+SuperCollider,https://rosettacode.org/wiki/SuperCollider,True,10091.0
+SuperTalk,https://rosettacode.org/wiki/SuperTalk,True,10099.0
+Superbase BASIC,https://rosettacode.org/wiki/Superbase_BASIC,False,
+Supernova,https://rosettacode.org/wiki/Supernova,False,
+Swahili,https://rosettacode.org/wiki/Swahili,False,
+Swift,https://rosettacode.org/wiki/Swift,True,10135.0
+Symsyn,https://rosettacode.org/wiki/Symsyn,False,
+SystemVerilog,https://rosettacode.org/wiki/SystemVerilog,True,10193.0
+TAL,https://rosettacode.org/wiki/TAL,True,10239.0
+TAV,https://rosettacode.org/wiki/TAV,False,
+TI BASIC,https://rosettacode.org/wiki/TI_BASIC,True,10483.0
+TI SR-56,https://rosettacode.org/wiki/TI_SR-56,False,
+TI-57,https://rosettacode.org/wiki/TI-57,False,
+TI-83 BASIC,https://rosettacode.org/wiki/TI-83_BASIC,False,
+TI-83 Hex Assembly,https://rosettacode.org/wiki/TI-83_Hex_Assembly,False,
+TI-89 BASIC,https://rosettacode.org/wiki/TI-89_BASIC,True,10482.0
+TIScript,https://rosettacode.org/wiki/TIScript,True,10532.0
+TMG,https://rosettacode.org/wiki/TMG,True,10553.0
+TPP,https://rosettacode.org/wiki/TPP,False,
+TRS-80 BASIC,https://rosettacode.org/wiki/TRS-80_BASIC,False,
+TSE SAL,https://rosettacode.org/wiki/TSE_SAL,False,
+TUSCRIPT,https://rosettacode.org/wiki/TUSCRIPT,True,11061.0
+TXR,https://rosettacode.org/wiki/TXR,True,10864.0
+TailDot,https://rosettacode.org/wiki/TailDot,True,10234.0
+Tailspin,https://rosettacode.org/wiki/Tailspin,False,
+Tbas,https://rosettacode.org/wiki/Tbas,False,
+Tcl,https://rosettacode.org/wiki/Tcl,True,10285.0
+TeLa,https://rosettacode.org/wiki/TeLa,True,10311.0
+TechBASIC,https://rosettacode.org/wiki/TechBASIC,False,
+Teco,https://rosettacode.org/wiki/Teco,True,10303.0
+Tern,https://rosettacode.org/wiki/Tern,True,10346.0
+Terra,https://rosettacode.org/wiki/Terra,True,10351.0
+Terraform,https://rosettacode.org/wiki/Terraform,True,4591.0
+TestML,https://rosettacode.org/wiki/TestML,True,10359.0
+Thistle,https://rosettacode.org/wiki/Thistle,False,
+Thyrd,https://rosettacode.org/wiki/Thyrd,True,10480.0
+Tiny BASIC,https://rosettacode.org/wiki/Tiny_BASIC,True,10525.0
+Tobbisk,https://rosettacode.org/wiki/Tobbisk,False,
+ToffeeScript,https://rosettacode.org/wiki/ToffeeScript,True,10573.0
+Toka,https://rosettacode.org/wiki/Toka,False,
+TorqueScript,https://rosettacode.org/wiki/TorqueScript,False,
+Tosh,https://rosettacode.org/wiki/Tosh,True,10613.0
+TransFORTH,https://rosettacode.org/wiki/TransFORTH,False,
+Transact-SQL,https://rosettacode.org/wiki/Transact-SQL,True,10650.0
+Transd,https://rosettacode.org/wiki/Transd,False,
+Trith,https://rosettacode.org/wiki/Trith,False,
+True BASIC,https://rosettacode.org/wiki/True_BASIC,True,10759.0
+Turbo-Basic XL,https://rosettacode.org/wiki/Turbo-Basic_XL,True,10803.0
+Turing,https://rosettacode.org/wiki/Turing,True,1303.0
+TutorialD,https://rosettacode.org/wiki/TutorialD,True,10834.0
+Twelf,https://rosettacode.org/wiki/Twelf,True,10840.0
+TypeScript,https://rosettacode.org/wiki/TypeScript,True,4249.0
+Typed Racket,https://rosettacode.org/wiki/Typed_Racket,False,
+UC++,https://rosettacode.org/wiki/UC++,False,
+UNIX Shell,https://rosettacode.org/wiki/UNIX_Shell,False,
+UScript,https://rosettacode.org/wiki/UScript,True,11061.0
+UTFool,https://rosettacode.org/wiki/UTFool,False,
+Uiua,https://rosettacode.org/wiki/Uiua,True,10923.0
+Ultimate++,https://rosettacode.org/wiki/Ultimate++,False,
+Unicon,https://rosettacode.org/wiki/Unicon,True,10979.0
+Uniface,https://rosettacode.org/wiki/Uniface,True,10983.0
+Unison,https://rosettacode.org/wiki/Unison,True,10997.0
+UnixPipes,https://rosettacode.org/wiki/UnixPipes,False,
+Unlambda,https://rosettacode.org/wiki/Unlambda,True,11011.0
+Ursa,https://rosettacode.org/wiki/Ursa,False,
+Ursala,https://rosettacode.org/wiki/Ursala,False,
+Ursalang,https://rosettacode.org/wiki/Ursalang,False,
+UserRPL,https://rosettacode.org/wiki/UserRPL,False,
+Uxntal,https://rosettacode.org/wiki/Uxntal,True,11122.0
+V,https://rosettacode.org/wiki/V,True,148.0
+V (Vlang),https://rosettacode.org/wiki/V_(Vlang),False,
+VAX Assembly,https://rosettacode.org/wiki/VAX_Assembly,False,
+VB6,https://rosettacode.org/wiki/VB6,False,
+VBA,https://rosettacode.org/wiki/VBA,True,11165.0
+VBScript,https://rosettacode.org/wiki/VBScript,True,11168.0
+VHDL,https://rosettacode.org/wiki/VHDL,True,11213.0
+VRML,https://rosettacode.org/wiki/VRML,True,11292.0
+VTL-2,https://rosettacode.org/wiki/VTL-2,False,
+Vala,https://rosettacode.org/wiki/Vala,True,11145.0
+Vale,https://rosettacode.org/wiki/Vale,True,11147.0
+Vedit macro language,https://rosettacode.org/wiki/Vedit_macro_language,False,
+Verbexx,https://rosettacode.org/wiki/Verbexx,False,
+Verilog,https://rosettacode.org/wiki/Verilog,True,10542.0
+Vim Script,https://rosettacode.org/wiki/Vim_Script,True,11227.0
+Visual Basic,https://rosettacode.org/wiki/Visual_Basic,True,11250.0
+Visual Basic .NET,https://rosettacode.org/wiki/Visual_Basic_.NET,True,8593.0
+Visual FoxPro,https://rosettacode.org/wiki/Visual_FoxPro,True,11257.0
+Visual Objects,https://rosettacode.org/wiki/Visual_Objects,True,11260.0
+Visual Prolog,https://rosettacode.org/wiki/Visual_Prolog,True,11263.0
+Viua VM assembly,https://rosettacode.org/wiki/Viua_VM_assembly,False,
+Vorpal,https://rosettacode.org/wiki/Vorpal,False,
+Vox,https://rosettacode.org/wiki/Vox,False,
+Vyxal,https://rosettacode.org/wiki/Vyxal,True,11308.0
+WDTE,https://rosettacode.org/wiki/WDTE,False,
+WML,https://rosettacode.org/wiki/WML,True,3711.0
+Waduzitdo,https://rosettacode.org/wiki/Waduzitdo,True,11316.0
+Wart,https://rosettacode.org/wiki/Wart,True,11328.0
+WebAssembly,https://rosettacode.org/wiki/WebAssembly,True,11358.0
+Wee Basic,https://rosettacode.org/wiki/Wee_Basic,True,11372.0
+Whenever,https://rosettacode.org/wiki/Whenever,True,11404.0
+Whitespace,https://rosettacode.org/wiki/Whitespace,True,11243.0
+Wisp,https://rosettacode.org/wiki/Wisp,True,11465.0
+Wollok,https://rosettacode.org/wiki/Wollok,True,11491.0
+Woma,https://rosettacode.org/wiki/Woma,False,
+Wortel,https://rosettacode.org/wiki/Wortel,False,
+Wrapl,https://rosettacode.org/wiki/Wrapl,False,
+Wren,https://rosettacode.org/wiki/Wren,True,11517.0
+X-script,https://rosettacode.org/wiki/X-script,True,11555.0
+X10,https://rosettacode.org/wiki/X10,True,11560.0
+X86 Assembly,https://rosettacode.org/wiki/X86_Assembly,True,11566.0
+X86-64 Assembly,https://rosettacode.org/wiki/X86-64_Assembly,False,
+XBS,https://rosettacode.org/wiki/XBS,False,
+XBase,https://rosettacode.org/wiki/XBase,True,11574.0
+XBasic,https://rosettacode.org/wiki/XBasic,True,11546.0
+XEec,https://rosettacode.org/wiki/XEec,True,11597.0
+XL,https://rosettacode.org/wiki/XL,True,10803.0
+XLISP,https://rosettacode.org/wiki/XLISP,False,
+XPL0,https://rosettacode.org/wiki/XPL0,True,11645.0
+XPath 2.0,https://rosettacode.org/wiki/XPath_2.0,False,
+XProc,https://rosettacode.org/wiki/XProc,True,11649.0
+XProfan,https://rosettacode.org/wiki/XProfan,True,11650.0
+XQuery,https://rosettacode.org/wiki/XQuery,True,11653.0
+XS,https://rosettacode.org/wiki/XS,True,11656.0
+XSLT,https://rosettacode.org/wiki/XSLT,True,11662.0
+XSLT 1.0,https://rosettacode.org/wiki/XSLT_1.0,False,
+XSLT 2.0,https://rosettacode.org/wiki/XSLT_2.0,False,
+XTalk,https://rosettacode.org/wiki/XTalk,False,
+XUL,https://rosettacode.org/wiki/XUL,False,
+Xanadu,https://rosettacode.org/wiki/Xanadu,False,
+Xojo,https://rosettacode.org/wiki/Xojo,True,11637.0
+YAMLScript,https://rosettacode.org/wiki/YAMLScript,False,
+Ya,https://rosettacode.org/wiki/Ya,False,
+Yabasic,https://rosettacode.org/wiki/Yabasic,True,11692.0
+Yacas,https://rosettacode.org/wiki/Yacas,True,11695.0
+Yorick,https://rosettacode.org/wiki/Yorick,True,11740.0
+Z80 Assembly,https://rosettacode.org/wiki/Z80_Assembly,False,
+ZED,https://rosettacode.org/wiki/ZED,True,11783.0
+ZPL,https://rosettacode.org/wiki/ZPL,True,11840.0
+ZX Spectrum Basic,https://rosettacode.org/wiki/ZX_Spectrum_Basic,False,
+Zig,https://rosettacode.org/wiki/Zig,True,11810.0
+Zkl,https://rosettacode.org/wiki/Zkl,False,
+Zoea,https://rosettacode.org/wiki/Zoea,False,
+Zoea Visual,https://rosettacode.org/wiki/Zoea_Visual,False,
+Zonnon,https://rosettacode.org/wiki/Zonnon,True,11832.0
+Zoomscript,https://rosettacode.org/wiki/Zoomscript,False,
+ΜC++,https://rosettacode.org/wiki/ΜC++,True,863.0
+МК-61/52,https://rosettacode.org/wiki/МК-61/52,False,
+உயிர்/Uyir,https://rosettacode.org/wiki/உயிர்/Uyir,False,
